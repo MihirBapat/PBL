@@ -1,0 +1,454 @@
+transaction_id,borrower_id,timestamp,amount,direction,counterparty_id,counterparty_type,payment_mode,category,description,balance_after_txn,festival_window
+0b7c1a95-476b-4118-ae29-ae3e2ded438c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-04-19 11:00:18,2931.11,credit,bb024d6232ae8453,platform,platform_payout,grocery,Enim deserunt nulla.,11522.49,ipl
+5418f45e-e49f-4528-ae3b-42ede918e1b1,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-04-20 06:20:34,449.39,debit,b0b52f47ee20946c,merchant,UPI,transfer,Cumque dicta.,11073.1,ipl
+9f2ac10d-8395-42c9-8d62-142fb1430b41,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-04-21 01:40:50,1072.28,debit,c889bd3bf4086f7b,peer,NEFT,platform_payout,At ipsum doloribus.,10000.82,ipl
+816db428-97e1-412c-b170-35c1c6b57bb7,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-04-21 21:01:05,2530.61,debit,d6c6a4d40f2afdf1,platform,UPI,transfer,Veritatis est est.,7470.21,ipl
+393da12c-670e-47d6-b983-789c1c20519c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-04-22 16:21:21,2870.11,credit,ce04567d1e71a409,peer,UPI,tip,Ex facere quam.,10340.32,ipl
+6868cd86-faa5-44b6-b7e5-954448277526,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-04-23 11:41:37,752.72,debit,af48db70f5fe351a,platform,NEFT,transfer,Harum facere.,9587.6,ipl
+33b315db-6a90-46a8-8315-59f15e74940d,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-04-24 07:01:53,1339.92,debit,7ab25cb09f69cd52,employer,cash_deposit,subscription,Incidunt eaque.,8247.68,ipl
+55b8b89c-031f-4244-b92a-7c5cbeda0a3e,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-04-25 02:22:09,2393.42,debit,1b1bafc9fe825dc3,unknown,IMPS,loan,Quae consectetur.,5854.26,ipl
+f891fe5c-f149-407b-ab4f-493fa677312b,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-04-25 21:42:25,354.4,debit,64aa91474f9ee8ff,unknown,NEFT,fuel,Saepe dicta aliquid.,5499.86,ipl
+2bb7a6ef-f80c-41ce-a687-781896c3cd9c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-04-26 17:02:41,2661.25,credit,6e9e7d45a6312c2b,employer,cash_deposit,grocery,Cum voluptates voluptatum.,8161.11,ipl
+f5faea2a-0773-4ceb-8c65-c112983e62b4,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-04-27 12:22:57,2268.44,debit,daa80bd394271793,employer,NEFT,salary,Quaerat necessitatibus.,5892.67,ipl
+3abc2d01-8597-49b9-a485-27062bd92945,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-04-28 07:43:13,2738.44,debit,2f891433ef3e1afa,merchant,NEFT,rent,Iste possimus.,3154.23,ipl
+5a4d3d45-5904-4421-9034-57a36a404d2e,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-04-29 03:03:29,1193.49,debit,5321ce8fb9953d53,unknown,platform_payout,rent,Ex tenetur perspiciatis.,1960.74,ipl
+f4eb8c44-f466-4e4b-abed-889a7b88b6ec,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-04-29 22:23:44,2446.14,debit,e86af497fe3ff812,unknown,IMPS,platform_payout,Cum magni.,0.0,ipl
+59f6371e-c585-46ed-97d7-4af895b8ba92,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-04-30 17:44:00,2312.48,debit,80e751d7026b7282,platform,UPI,grocery,Veniam maxime porro.,0.0,ipl
+09febe6e-7a55-4375-8c6e-633b04fec6ed,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-01 13:04:16,1146.24,credit,ee634ab7ad4ded08,platform,UPI,tip,Dicta ullam.,1146.24,
+080dab16-8d67-488d-b3bd-260d475cde09,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-02 08:24:32,1998.59,debit,b3379adab8a7b03a,merchant,UPI,loan,Neque ut.,0.0,
+691e761c-ed89-4477-8603-fdb501cd3e70,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-03 03:44:48,1150.63,debit,4cbba10903787aa8,unknown,UPI,grocery,Magnam esse.,0.0,
+7124481b-6656-4843-bf99-713522f01036,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-03 23:05:04,1386.4,credit,4af6f8810ba15fd6,peer,cash_deposit,transfer,Hic vero.,1386.4,
+34901189-2e21-4e3b-b60e-329cdeeec6ba,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-04 18:25:20,1129.68,credit,5bac0cc97f7aead7,peer,platform_payout,platform_payout,Aliquam incidunt modi.,2516.08,
+8bae3b0d-3199-4876-935c-b976b08b57a4,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-05 13:45:36,2045.53,debit,de77304b3b1d5583,merchant,platform_payout,fuel,Praesentium amet voluptatibus.,470.55,
+88d55141-14df-4328-b0ab-d10f05ca4745,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-06 09:05:52,1927.7,debit,8a56cef029280be9,merchant,NEFT,rent,Alias blanditiis quo.,0.0,
+ee48c1f9-40dc-4843-9ae8-b00ad771c559,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-07 04:26:07,830.39,debit,c7414ddb81c8052f,platform,NEFT,salary,Totam.,0.0,
+fd981d76-39a0-40d3-8175-7afa413a7faf,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-07 23:46:23,1294.22,debit,90de0a60c7319772,unknown,UPI,subscription,Ipsam ab.,0.0,
+f7b7c1a6-c7a3-4005-8bc0-0d736206cf3a,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-08 19:06:39,2238.55,debit,c9db9989a5271da8,employer,cash_deposit,salary,Libero laborum.,0.0,
+176294ba-1333-4289-907a-621ee653402c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-09 14:26:55,1094.12,debit,b7e2081371e875e3,unknown,NEFT,fuel,Debitis.,0.0,
+e38c6753-0ca2-4f6e-a0a3-5e839768755d,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-10 09:47:11,727.49,credit,dfee4d434376ead1,unknown,NEFT,tip,Veniam dolore.,727.49,
+20f2f47b-a1f6-414c-ac1e-66d520070c18,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-11 05:07:27,372.37,debit,b73b73a9847164b7,peer,NEFT,grocery,Quam aliquam explicabo.,355.12,
+f747411d-ded8-433a-81cd-aa80c503d1c2,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-12 00:27:43,217.18,debit,609a773d067b1de3,platform,IMPS,transfer,Iure nostrum.,137.94,
+96ee75aa-892c-4d8b-8aa0-fc8e413aa77a,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-12 19:47:59,693.66,debit,52c1ee6e5924c0fe,employer,IMPS,transfer,Illum quo.,0.0,
+9323eb79-71ab-4aef-9949-3db3485c933c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-13 15:08:15,1602.59,credit,d9826ba41d2ce8b6,unknown,platform_payout,platform_payout,Repudiandae doloribus.,1602.59,
+afcf6681-0077-4677-904d-e82b3a473872,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-14 10:28:31,1408.94,debit,b33329c7e581c0c0,peer,cash_deposit,rent,Mollitia voluptatibus architecto.,193.65,
+dffecb06-2d38-4315-b807-a0c6ba92c16b,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-15 05:48:46,103.47,credit,b81f8896c817f27d,peer,NEFT,grocery,Aliquid harum quidem.,297.12,
+5454f02f-64df-4617-a777-662d46b90081,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-16 01:09:02,131.78,debit,026dbd953af14226,unknown,cash_deposit,fuel,Excepturi beatae praesentium.,165.34,
+a6eeefa2-f6d1-41dc-b238-9b5ca222d3d1,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-16 20:29:18,652.05,credit,ea15b296f7b2a2a1,unknown,NEFT,rent,Ducimus alias voluptatibus facilis.,817.39,
+4b954ced-391a-4cc5-855d-52caa144f410,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-17 15:49:34,1128.92,credit,843c46548da42f7a,merchant,NEFT,grocery,Aliquam molestias assumenda perspiciatis.,1946.31,
+b6c79f39-86a8-495a-90d6-80bfd154b78d,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-18 11:09:50,1691.17,debit,0ca70719e09990da,merchant,IMPS,subscription,Illo nesciunt eius.,255.14,
+4e924c85-e994-4d64-b27f-0860877b0995,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-19 06:30:06,2137.46,debit,c686a8ae9307c1fa,peer,NEFT,rent,Accusantium nemo laboriosam veniam.,0.0,
+430ddb30-e540-4d95-830f-aa90c34347d1,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-20 01:50:22,2328.43,credit,c811605833684d93,unknown,IMPS,rent,Modi.,2328.43,
+ab06b8a9-34c7-4898-bfa1-fa4fb52a88e6,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-20 21:10:38,1630.75,debit,135ba35fe714c1fb,platform,UPI,fuel,Iusto maiores dignissimos.,697.68,
+7d161aca-3237-499a-97e4-b26c5f46d326,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-21 16:30:54,1314.32,credit,88b6de3c507e294f,unknown,NEFT,loan,Iure possimus nulla.,2012.0,
+56ca9c9c-6a9f-49d9-a65b-156216db4a58,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-22 11:51:09,351.82,debit,b2a80a9f09c929c4,platform,platform_payout,grocery,Laudantium reprehenderit.,1660.18,
+fde42da7-42fd-4528-a887-a747176646a7,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-23 07:11:25,730.25,debit,5f49bb3b523c7962,unknown,NEFT,platform_payout,Nihil veniam perferendis.,929.93,
+f0d85cf7-8715-4800-885d-f60c975bda2f,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-24 02:31:41,1219.67,credit,16bcdddca3f0c4c9,employer,platform_payout,salary,Consectetur autem error ut.,2149.6,
+e35d2985-0978-4ceb-b711-214e5946e283,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-24 21:51:57,1791.66,debit,d2ce9edbaa2151b9,employer,platform_payout,grocery,Ea veritatis facilis.,357.94,
+3bdddbee-9ced-4937-ad9d-5447390f34b2,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-25 17:12:13,2268.97,credit,be34346378b119b9,employer,IMPS,salary,Veritatis fugit.,2626.91,
+937e4729-425f-493b-abf4-8075e1025364,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-26 12:32:29,2164.05,credit,407c44a2f723877f,unknown,NEFT,grocery,Ipsam blanditiis.,4790.96,
+76dff88c-81fe-4906-96c2-e932b1f7c567,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-27 07:52:45,1092.82,debit,9f600ca331831901,peer,NEFT,platform_payout,Modi alias est.,3698.14,
+6b522838-6035-4208-b1ec-e58179bb6c92,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-28 03:13:01,202.16,debit,4a761f11db29ea23,merchant,UPI,transfer,A expedita omnis.,3495.98,
+cdd6c79f-cfd1-4f5f-8dd9-5b1d9412410f,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-28 22:33:17,2155.44,credit,48926b33e1730ffd,platform,UPI,fuel,At velit doloribus.,5651.42,
+d5bd1267-3313-4b1e-894e-22adf7aeb59c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-29 17:53:32,2309.71,debit,e5765e1c2016b4fc,unknown,IMPS,fuel,Sapiente aspernatur similique.,3341.71,
+836e54fa-17fb-46ab-a93f-588bdd2ea646,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-30 13:13:48,139.04,debit,1fc2b88b750e71fe,platform,platform_payout,transfer,Ipsam minus.,3202.67,
+807cbe5b-5f47-4c0b-9774-876c8f3b0f45,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-05-31 08:34:04,1171.52,debit,f30663ebb4202ea4,merchant,NEFT,salary,Enim excepturi inventore.,2031.15,
+4c86cd17-de34-4288-bc8e-5e69d835653a,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-01 03:54:20,973.19,credit,c489b313bbadc49f,merchant,NEFT,platform_payout,Nam odio minima.,3004.34,
+2c34b8cb-eef7-4cf0-a25c-56c382eb8bc2,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-01 23:14:36,715.21,debit,e88244ab6bcabad3,employer,cash_deposit,subscription,Reiciendis qui voluptatum.,2289.13,
+550c52be-52c8-4461-806e-f2fe15145f6c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-02 18:34:52,1812.36,debit,36c200caa47a480d,platform,platform_payout,loan,Assumenda libero alias.,476.77,
+cd02e761-3f8d-4569-8ade-d4dd1be3c192,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-03 13:55:08,2289.47,debit,99d63a832ab1eab4,platform,IMPS,salary,Qui illum.,0.0,
+2a028688-2798-44c3-9ccb-41ebdefbd79f,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-04 09:15:24,480.12,debit,265ef914dd2d0a17,employer,IMPS,transfer,Quis soluta non.,0.0,
+2f061a02-3e8f-4edd-9eb1-168b8fa5d5e1,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-05 04:35:40,1948.86,debit,be7cecffffa35fba,peer,UPI,tip,Itaque nulla sint.,0.0,
+5af5f725-5c4c-4143-b2c0-af970f377161,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-05 23:55:56,1634.45,debit,8eef6ee3ec4aa27b,unknown,IMPS,subscription,Facilis ex asperiores.,0.0,
+186e1ec5-ff1b-430f-926f-418eb6c99cfa,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-06 19:16:11,1850.37,debit,8c92899ebe598272,platform,UPI,salary,Quod necessitatibus odio architecto.,0.0,
+ae995c66-9baf-42fc-bd0f-3adc8c2e21d6,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-07 14:36:27,1096.08,credit,94ada173f037bca2,merchant,UPI,fuel,Reiciendis.,1096.08,
+50b2cc80-4d73-4b44-ba96-c7eec743d927,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-08 09:56:43,1799.39,debit,364b744b188b9af9,platform,NEFT,rent,Dolore voluptatibus.,0.0,
+a676504e-1b34-4dd8-9b60-c08daff8bf3c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-09 05:16:59,223.27,debit,4730ab901af574a8,employer,IMPS,loan,Corrupti fugiat animi.,0.0,
+e17e6cf8-7226-4d68-8e2f-10c4fc49f9a1,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-10 00:37:15,892.63,debit,0ef534c6871ddc2d,merchant,platform_payout,rent,Perspiciatis libero qui.,0.0,
+3d16c478-7ca7-4e05-8112-a45710165ecd,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-10 19:57:31,1119.43,debit,ce5c462394684c97,employer,NEFT,transfer,Praesentium ratione accusamus.,0.0,
+c2eca4c3-2ea3-4a68-bd3c-f23920cd9733,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-11 15:17:47,549.37,debit,a5e6840ef0303933,unknown,NEFT,grocery,Unde voluptatibus voluptatum accusamus.,0.0,
+4a3134c8-ed83-49f9-85fd-3ee2e04a2549,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-12 10:38:03,2188.37,debit,81a03d8a78f60f9e,platform,UPI,grocery,Rerum consequatur.,0.0,
+7a6d9c14-664f-4ccb-8f0c-bdb1e003cc8d,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-13 05:58:19,2295.95,credit,b654ccaa1d3002c7,platform,NEFT,rent,Eaque.,2295.95,
+e0e34b03-d5bc-4500-a608-9643c339fae4,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-14 01:18:34,1785.48,debit,35c293d07e2456f0,peer,NEFT,grocery,At ab.,510.47,
+4287c7ea-ad04-4af8-aa6f-e7ce064fae6a,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-14 20:38:50,378.27,credit,6328aa3d61dd9ee0,unknown,NEFT,salary,Sit consequatur porro.,888.74,
+f040ed5b-1d62-4249-8258-f0c56956741c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-15 15:59:06,2131.98,debit,583b185ca35dc521,platform,IMPS,rent,Saepe numquam magnam.,0.0,
+0427a159-16d2-42be-9a45-9588d474f569,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-16 11:19:22,990.0,credit,6842d65a687935ad,merchant,UPI,tip,Corrupti soluta delectus.,990.0,
+03d29627-7be4-460f-bee5-e8c62aa1d8e8,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-17 06:39:38,469.23,debit,ccbb73835349bd5e,unknown,cash_deposit,grocery,Quod numquam.,520.77,
+a16db93c-e7a0-45a1-b16f-5b0946a37631,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-18 01:59:54,1498.97,credit,a8ad545082b18a60,unknown,platform_payout,loan,Laborum itaque doloremque dolorum.,2019.74,
+62b54992-ca70-4bd4-bf47-7951eec0934c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-18 21:20:10,226.55,debit,95a48d22298f3290,platform,UPI,loan,Odit accusamus distinctio.,1793.19,
+12440a34-5c5c-4e6d-a015-a27da202b23a,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-19 16:40:26,813.53,debit,8e7fcc75e47e439e,platform,cash_deposit,tip,Tenetur aut.,979.66,
+8695d0f5-13e8-47a7-9bde-a22a31fe6dd4,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-20 12:00:42,2134.62,debit,56daa4796ea152fe,peer,NEFT,platform_payout,Doloremque.,0.0,
+bbe64571-7230-4471-b508-67e32da655ca,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-21 07:20:58,1666.74,credit,b4c705b45caddb3c,peer,IMPS,platform_payout,Veniam dolorum vero.,1666.74,
+9d3ac661-9ed4-486c-9c81-cca895448c6c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-22 02:41:13,1526.02,debit,67d77bcfbf6f297d,peer,UPI,rent,Consequatur quos laboriosam.,140.72,
+9024ec2d-4514-4a45-a4d7-d0fe359e35b4,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-22 22:01:29,409.0,debit,544b4b734076dda1,unknown,cash_deposit,salary,Quam delectus.,0.0,
+48cbd0b9-74af-4327-a0ed-058067b97cf4,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-23 17:21:45,1131.96,debit,1f3346753fad74a9,peer,NEFT,transfer,Eligendi officiis.,0.0,
+92b2bf4a-11ff-479d-95bd-784bf954d51c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-24 12:42:01,1816.31,credit,b38dd2a03802e2b6,employer,IMPS,salary,Nulla molestiae.,1816.31,
+0a66bf25-4642-4256-8ae8-7484f4645a16,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-25 08:02:17,507.65,debit,08812801c9998994,employer,NEFT,transfer,At quae aspernatur quasi.,1308.66,
+3f0b9595-cf47-47bd-bd0c-18079c11f7c1,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-26 03:22:33,323.02,credit,8b5ee67020355cd6,peer,cash_deposit,tip,Perspiciatis consectetur.,1631.68,
+4a10f00c-c9e2-4e10-9b36-915088c26a02,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-26 22:42:49,487.96,debit,486c5ff77da8893a,platform,cash_deposit,platform_payout,Assumenda recusandae.,1143.72,
+281dc01d-8ee3-408d-8026-f9c8adcafb6f,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-27 18:03:05,1534.56,debit,24473c986125324e,peer,NEFT,loan,Delectus provident.,0.0,
+d791985e-3471-4bd3-9a0a-7e97c9f57ea9,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-28 13:23:21,1770.31,debit,15a07ae8f8938cda,unknown,IMPS,loan,Ducimus adipisci.,0.0,
+046219a7-4f6f-4ce7-9193-31f22f0e51b7,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-29 08:43:36,2070.56,debit,9cf568cbc4fb3bd1,platform,platform_payout,platform_payout,Consequatur quidem.,0.0,
+1787dcd3-f712-40ca-8158-7bda2a0da960,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-30 04:03:52,860.11,debit,d9f69268eaa9cf13,peer,UPI,transfer,Reiciendis eaque adipisci.,0.0,
+9393fafc-0b47-46c3-a347-03a53348c6e6,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-06-30 23:24:08,758.16,credit,703af64822334d46,peer,platform_payout,platform_payout,Saepe quis deleniti.,758.16,
+c482c168-5d7f-4a94-b1ec-cc83450f77a4,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-01 18:44:24,423.5,credit,ead37956f5429709,peer,NEFT,transfer,Deleniti itaque.,1181.66,monsoon
+99df71c2-adb3-4d53-9c14-60ba93107158,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-02 14:04:40,561.39,debit,e6a46e429ec56fc8,merchant,UPI,fuel,Facilis ipsam.,620.27,monsoon
+9aec1c42-77bd-48ca-af4f-a0ffde24c630,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-03 09:24:56,871.36,debit,de5e22855787e5f4,platform,platform_payout,grocery,Fugit ipsam debitis.,0.0,monsoon
+5f779bea-5ece-4da4-8244-7a97466720cd,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-04 04:45:12,290.02,credit,c68cbef57ccc5702,platform,platform_payout,fuel,Magnam vero.,290.02,monsoon
+3d1017a0-6625-45b5-9cae-2c359535b7f5,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-05 00:05:28,840.12,debit,cbad8495a1a08985,employer,UPI,transfer,Itaque est.,0.0,monsoon
+7006847e-25d6-4905-9379-3b06efdd6ba3,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-05 19:25:44,473.17,debit,7a19af1f905c4bc1,platform,platform_payout,salary,Sed odit.,0.0,monsoon
+dc92d28d-b807-4fa7-bb29-27d27fe687c5,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-06 14:46:00,975.71,debit,dc059db07cc068ba,peer,UPI,grocery,Id distinctio impedit.,0.0,monsoon
+77cc11dc-1aac-45be-99fb-41510b06918f,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-07 10:06:15,1689.45,debit,65d35842c675797e,merchant,IMPS,subscription,Ratione ad.,0.0,monsoon
+86ebcc4d-84ba-4ecc-9bdf-69fa3168e2d9,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-08 05:26:31,317.06,debit,521cb7f2dbbac481,employer,platform_payout,tip,Quasi dicta perferendis.,0.0,monsoon
+feafcce6-3c54-48ef-b070-5db8cb838baa,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-09 00:46:47,1310.18,debit,8f7853c6ab798d14,peer,platform_payout,salary,Mollitia nostrum a tempora.,0.0,monsoon
+8709c0cb-41cf-47c1-b7ef-f647c395ecf4,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-09 20:07:03,1076.07,debit,c85840fb15e0bef0,peer,platform_payout,platform_payout,Suscipit ipsam delectus.,0.0,monsoon
+6af99941-054d-41a0-b16d-f38574969ea7,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-10 15:27:19,549.97,debit,1fba565216127c9f,unknown,IMPS,transfer,Necessitatibus officiis.,0.0,monsoon
+fa98bf26-4e5b-41d9-8eb8-5238df668b5d,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-11 10:47:35,700.4,debit,77ef4d03939f63a7,employer,platform_payout,salary,Voluptates.,0.0,monsoon
+e816172f-6a4c-4c31-901a-f6845b27a234,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-12 06:07:51,1695.08,debit,81c552a14408be9e,unknown,UPI,rent,Sit fuga consectetur.,0.0,monsoon
+551d2892-76e7-4980-ba11-45ab860e8c2a,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-13 01:28:07,1300.68,debit,d566f323b0dee8f8,peer,UPI,loan,Optio doloremque.,0.0,monsoon
+3a7fb890-63b6-4175-a7b2-95fbb17afbac,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-13 20:48:23,538.62,credit,265b69b0a08d2d84,merchant,UPI,tip,Sapiente dicta dolorem.,538.62,monsoon
+4c2cf1e5-3634-4167-b6bb-b03099688870,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-14 16:08:38,918.01,debit,d27547ffe5c7c50a,employer,IMPS,grocery,Soluta quia.,0.0,monsoon
+1d61e4d3-ce10-44d6-bd51-3b2e8c9fbd44,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-15 11:28:54,1526.35,credit,be47644501e86fd2,unknown,platform_payout,loan,Molestiae temporibus.,1526.35,monsoon
+4c81e24c-28cb-4a0b-ac8b-587161eb0f4e,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-16 06:49:10,1624.27,credit,fd5ef2ef0e88420f,employer,platform_payout,tip,Esse sapiente magni.,3150.62,monsoon
+6e30dc3c-cb26-4f08-80bd-163e04a59e27,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-17 02:09:26,1348.39,credit,550ffd2776ef195d,merchant,cash_deposit,grocery,Vitae rem quidem.,4499.01,monsoon
+941f756a-fe75-465a-aac5-e7f628d97900,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-17 21:29:42,228.01,debit,723863cc2bb90932,unknown,cash_deposit,fuel,Et delectus consequatur.,4271.0,monsoon
+46259757-c6e2-4aeb-9e6b-79b7ef6b258f,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-18 16:49:58,45.54,debit,120a4c5f4d3ac2ad,employer,platform_payout,rent,In iusto id dolores.,4225.46,monsoon
+d603dcb6-ba2f-4ab5-8366-7fb6daeadfa6,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-19 12:10:14,972.54,debit,088f5bed0a574549,peer,NEFT,loan,Voluptatum ipsum nobis.,3252.92,monsoon
+9a729b9e-9879-427c-bdf8-2ba78c3cfe2a,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-20 07:30:30,1364.13,credit,af43dcf446525d17,employer,IMPS,transfer,Dolore dolore modi.,4617.05,monsoon
+7fb806ee-2a0d-42f0-a89c-f2a380c4447b,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-21 02:50:46,340.8,credit,1f148c6b1a2ec4cb,merchant,NEFT,salary,Eum.,4957.85,monsoon
+b6649886-464e-46b0-9d1f-6d7842d7839e,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-21 22:11:01,616.11,debit,8ce9a7f5d0406dad,platform,NEFT,loan,Earum tempora.,4341.74,monsoon
+41d792bb-e8ee-4a40-a723-62daf0f3bff8,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-22 17:31:17,780.67,debit,70851725c07a515a,employer,cash_deposit,transfer,Totam ex.,3561.07,monsoon
+29c0af08-e129-4984-9f6f-878416bfe16f,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-23 12:51:33,752.88,debit,73d4d4c806d1cfa9,merchant,NEFT,platform_payout,Pariatur.,2808.19,monsoon
+c1c8acc6-f9fb-4f99-baab-fbe470eb1c98,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-24 08:11:49,959.09,credit,be7cc2f521d27b24,peer,IMPS,fuel,Laboriosam perferendis voluptatem blanditiis.,3767.28,monsoon
+d671e996-d0d7-47a7-9465-5748dec3de80,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-25 03:32:05,1497.73,debit,ed0847786be51ea2,platform,IMPS,subscription,Consequatur autem.,2269.55,monsoon
+f01404b6-3fd7-4a95-9976-84cb48fd594c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-25 22:52:21,1470.44,debit,c1b586aaf4942500,unknown,NEFT,platform_payout,Perferendis delectus fugit enim.,799.11,monsoon
+8d0fe91a-98d9-4601-9907-8d080d9ea616,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-26 18:12:37,782.89,debit,e0486c3700c1000b,platform,IMPS,transfer,Omnis voluptatum.,16.22,monsoon
+c9332857-48c2-4a1a-b446-d2e6a217f915,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-27 13:32:53,1049.0,debit,1ab61753574193f7,unknown,cash_deposit,loan,Vero dicta possimus.,0.0,monsoon
+40d15896-0de1-4716-80fe-900d6f49fe05,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-28 08:53:09,1159.69,credit,a50cf311c150a76b,unknown,UPI,platform_payout,Fugiat ullam.,1159.69,monsoon
+95aab54c-9240-4a3a-9285-2d65ded20ab5,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-29 04:13:25,71.35,credit,4d494674dd32ab33,employer,UPI,grocery,Libero harum libero.,1231.04,monsoon
+48856c25-9f48-4f1e-a8f7-986ce1b9f063,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-29 23:33:40,965.51,credit,29c96c54b6ee7ceb,platform,NEFT,loan,Commodi atque.,2196.55,monsoon
+7a5e60e1-c058-4401-96d4-706221fdb9a4,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-30 18:53:56,415.82,credit,b659e5a40c73db2d,unknown,platform_payout,tip,Sit debitis at voluptatibus.,2612.37,monsoon
+5b48a798-6ec3-4b94-bd51-5ff5b716d14f,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-07-31 14:14:12,717.0,credit,e99b3c24ba4abdf0,merchant,IMPS,grocery,Deleniti quasi.,3329.37,monsoon
+c37658d4-6898-4277-9376-f7e692e3d96d,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-01 09:34:28,612.36,debit,812b2c2cdee508bb,employer,IMPS,rent,Possimus occaecati.,2717.01,
+235ddebc-709b-4aa3-81b5-1c134ff2aa98,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-02 04:54:44,114.23,debit,c36ea39d4121da49,platform,cash_deposit,platform_payout,Quibusdam voluptatum.,2602.78,
+09cdff03-4d5d-4907-bbac-d31ab742e168,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-03 00:15:00,458.32,credit,6f5ec842d3736b0d,merchant,platform_payout,subscription,Libero numquam quibusdam.,3061.1,
+b8e3455d-bbf2-4830-a4db-dce9d06e48c5,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-03 19:35:16,1962.01,debit,b4d3c3aa22f504f6,employer,NEFT,rent,Dolore.,1099.09,
+d2d2c3b2-066c-482a-bf51-3e0b29b7f308,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-04 14:55:32,1710.28,debit,30eecf0d63f67f74,employer,NEFT,subscription,Sit accusantium.,0.0,
+cbd9f6b8-400e-431b-83ca-fc8132e3c85d,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-05 10:15:48,1524.67,debit,8f33a7f7e1873b41,peer,UPI,subscription,Velit magnam.,0.0,
+712992b3-99b8-4a73-8da0-14e70c0c3288,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-06 05:36:03,2219.75,credit,d50076dc35a35c8a,employer,IMPS,fuel,Rerum.,2219.75,
+55f791fa-c187-4b3c-826c-0fccc6f23092,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-07 00:56:19,1998.45,credit,2b321c4263295973,peer,platform_payout,rent,Ea neque sed.,4218.2,
+e4b49c6b-5150-4c52-a0df-e731964541c7,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-07 20:16:35,299.05,credit,5d393753ba50d83b,unknown,IMPS,fuel,Libero sed natus.,4517.25,
+29cd602c-4c72-4011-b186-19a1eb78d57d,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-08 15:36:51,1596.69,debit,1e4c965bbb5d1209,peer,UPI,loan,Qui ducimus dignissimos.,2920.56,
+109af539-37d3-435f-b238-1ce53c043633,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-09 10:57:07,1059.57,debit,9da5d0e9fe3a68a7,employer,UPI,loan,Nobis aut incidunt.,1860.99,
+75ab4077-e3e3-4e40-a751-70008575ca70,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-10 06:17:23,1170.15,debit,0aa51ec2868bfa17,peer,platform_payout,rent,Magnam.,690.84,
+055d2d91-ba0d-477c-b47d-072198fd416b,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-11 01:37:39,967.52,credit,4e81a9a9553a9d62,merchant,cash_deposit,fuel,Ullam error minus fuga.,1658.36,
+7ee148dd-bb7f-49ef-9264-15f8e04ac00d,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-11 20:57:55,1104.85,debit,dbc5d95baf8e3c47,peer,cash_deposit,rent,Dolorum.,553.51,
+df57055b-2096-4d01-acef-f6255b7be828,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-12 16:18:11,1939.89,credit,a103759ee64d651e,platform,platform_payout,fuel,Suscipit tenetur ipsa.,2493.4,
+131a80ce-7f63-4fd3-9e5e-0f561a5809cc,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-13 11:38:27,2126.25,credit,c7a665a0c1b35064,peer,NEFT,platform_payout,Animi eius.,4619.65,
+9d9d53e1-ba66-4f5b-ab01-3572b7cce646,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-14 06:58:42,272.56,debit,1cf6c425b507d564,merchant,UPI,transfer,Debitis labore qui.,4347.09,
+7c10ede8-da55-4e1b-a3c4-21280c17c6a7,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-15 02:18:58,91.93,credit,d01db255dc95d6c5,peer,UPI,loan,Dignissimos deleniti.,4439.02,
+9bf56a3e-4209-4a4f-b70f-67a771a621e4,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-15 21:39:14,678.12,credit,2b62a36dc079a14b,merchant,platform_payout,transfer,Ea assumenda enim.,5117.14,
+68a9469d-2549-406f-b7db-20b0b89a39e1,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-16 16:59:30,1711.65,credit,644c61495b9da0f1,unknown,cash_deposit,tip,Soluta corrupti voluptatibus.,6828.79,
+34e5a798-4724-421c-9be1-19b143d5d556,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-17 12:19:46,372.71,debit,757aa2c29d934e32,merchant,cash_deposit,loan,Neque ratione dignissimos.,6456.08,
+bf84ff9b-8e3e-40e5-8cb3-ef3dd71b88ac,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-18 07:40:02,1874.16,credit,1a009b74a9f490d5,platform,IMPS,fuel,Eveniet nihil nam.,8330.24,
+d5a3cf01-1171-4516-a545-38bb7d3b614b,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-19 03:00:18,421.69,debit,20ec939541336d7e,platform,cash_deposit,transfer,Sequi cupiditate voluptas.,7908.55,
+5ad15f23-c424-4eb9-b6e1-9dc48e1a1df4,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-19 22:20:34,1028.23,debit,c886c3c63543d9bf,platform,cash_deposit,subscription,Dolore ex voluptatem.,6880.32,
+18222a85-83ca-41f3-bee9-a71e6f57a142,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-20 17:40:50,1033.64,credit,b485d3e91c13b8d7,peer,UPI,tip,Voluptates praesentium.,7913.96,
+4cb44752-611e-44f0-85bd-61fef6a39377,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-21 13:01:05,2082.57,debit,751c550fef4653be,unknown,NEFT,loan,Doloremque blanditiis animi.,5831.39,
+e5796500-8207-4158-80e4-b487b1bd3ee7,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-22 08:21:21,412.83,debit,fc580f3da36f353e,peer,UPI,loan,Eos inventore libero.,5418.56,
+4e9a58c5-7963-4107-9d25-baf9340a7477,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-23 03:41:37,545.24,credit,3cc3f7b61717661a,platform,NEFT,salary,Pariatur omnis.,5963.8,
+a9633fff-63bb-4a69-95cd-a21a6d17c654,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-23 23:01:53,2274.95,debit,73f84c05951a32ab,employer,cash_deposit,tip,Ipsa excepturi.,3688.85,
+87313722-aa53-4d09-bcaf-9c763bfff5a5,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-24 18:22:09,2261.34,debit,60d4c9cdf9e78338,platform,NEFT,salary,Reprehenderit adipisci voluptatem.,1427.51,
+7ebf716f-aefd-40a4-8041-f2ba38513199,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-25 13:42:25,254.47,credit,ce007c15e61aee24,unknown,NEFT,tip,Ab expedita.,1681.98,
+ac124da3-872a-40d7-aa1a-e03d7d628efa,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-26 09:02:41,1532.58,debit,8184d8989f923405,unknown,platform_payout,platform_payout,Fuga necessitatibus maiores.,149.4,
+401e5693-02cc-4906-b56a-7898142f6fe0,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-27 04:22:57,564.91,debit,0c3009ae68734aa0,peer,cash_deposit,loan,Modi.,0.0,
+6cb7ef40-3c44-4a7e-8439-01888f518506,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-27 23:43:13,1283.52,debit,5b4fe48624b209f9,employer,UPI,loan,Inventore porro voluptates.,0.0,
+951ec79b-d997-45ff-94af-170b80a84941,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-28 19:03:29,2051.71,debit,bed30e7ee760b4c0,platform,platform_payout,salary,Dolor vitae unde.,0.0,
+59e0a49c-ec65-4f48-b778-b0e5ec7f2ec4,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-29 14:23:44,948.41,debit,d18535f63fd8838e,employer,NEFT,tip,Officia impedit.,0.0,
+f63af3ed-35f3-45f6-9bcd-08b8dff186e8,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-30 09:44:00,2318.65,debit,30e896a3375b61de,unknown,NEFT,grocery,Vitae perferendis deserunt.,0.0,
+45e8c06a-f505-4aa8-8437-04d9a73cc8a5,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-08-31 05:04:16,105.8,debit,9c61364093ac5b64,platform,cash_deposit,platform_payout,Placeat doloribus rem.,0.0,
+5c95fb25-584e-42f0-bcbe-0a598fbb158b,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-01 00:24:32,1349.86,credit,842bdfd43ac9211d,merchant,NEFT,loan,Odit quis maxime.,1349.86,
+63eafb4c-01cf-44c0-9f3c-9218e5bfb923,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-01 19:44:48,1080.15,debit,34d1f5f86a4888bf,peer,cash_deposit,loan,Distinctio corporis architecto.,269.71,
+b809da23-667c-4bdd-9df3-d8900f8a912c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-02 15:05:04,1271.06,credit,c8e1366589b301a4,platform,platform_payout,tip,Deserunt nam aut ipsa.,1540.77,
+87442a75-2b36-4180-848b-7089b3759a87,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-03 10:25:20,1471.08,credit,9d2ada9febf2fdd2,platform,IMPS,grocery,Incidunt dignissimos.,3011.85,
+00694e85-99e1-4c22-b08c-d9e93e73606a,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-04 05:45:36,1198.18,debit,809b6c9e027f78a5,platform,cash_deposit,loan,Sed impedit perferendis.,1813.67,
+6bd5a1aa-49af-4f6c-95f6-2f284fc3f2c7,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-05 01:05:52,1021.98,debit,e65044eddf50515c,platform,NEFT,tip,Fuga earum provident.,791.69,
+023ef351-7c7a-4134-b9d9-ec49501e450a,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-05 20:26:07,978.44,credit,6f7123a9fce99255,merchant,cash_deposit,subscription,Inventore laboriosam adipisci.,1770.13,
+9da0933e-80e8-4e6c-9bb0-b791e21f1fc4,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-06 15:46:23,1495.79,debit,6c87cc1a14ff9e64,peer,platform_payout,rent,Tempora sunt suscipit.,274.34,
+630051a6-1cb7-407d-90b0-6355db3255df,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-07 11:06:39,882.32,debit,03bdbdb07eb039b2,peer,UPI,fuel,Ipsa eveniet quibusdam.,0.0,
+ecf7d9f2-9488-4bde-ad31-872fff698b65,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-08 06:26:55,2240.08,debit,90abd09a3ba9d3f2,employer,IMPS,grocery,Minima aliquam.,0.0,
+3b894a82-e640-440a-ad6e-32a0bfbea66e,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-09 01:47:11,279.54,debit,33536c40e36f05e2,platform,UPI,grocery,Ipsum incidunt soluta.,0.0,
+62616871-fbe6-4e6d-812b-bceef235382f,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-09 21:07:27,1927.62,debit,aeaa76add22ed6da,platform,IMPS,loan,Ullam perferendis.,0.0,
+37d8c532-57bf-4d80-b26c-5107de6cf027,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-10 16:27:43,2154.35,debit,d4d0e461df2599cb,employer,cash_deposit,loan,Sed doloribus ea.,0.0,
+a47f513a-926b-4809-bfd6-db1c9672b9f5,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-11 11:47:59,1737.67,credit,531c889ac9b2b95e,peer,IMPS,subscription,Magni.,1737.67,
+9b12c51b-71a2-4d80-a763-285d41ad6aa2,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-12 07:08:15,498.19,debit,9b0f86d7159db2df,peer,UPI,loan,Ut voluptate.,1239.48,
+f0af01b2-2aeb-4e77-a9c0-34ae5a8d4924,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-13 02:28:31,1122.77,credit,5e491d8c672419fd,unknown,platform_payout,rent,Ullam mollitia.,2362.25,
+4f8e480e-7917-49a1-a327-f41ff8ef8087,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-13 21:48:46,1160.43,debit,2ef85fa4670283ee,peer,cash_deposit,transfer,Maxime adipisci ex porro.,1201.82,
+172348d5-6f30-4526-b05d-0b9f329d6049,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-14 17:09:02,1534.88,credit,5db09263ca4f8435,unknown,IMPS,platform_payout,Dolorum doloribus veniam.,2736.7,
+b9cd3020-0584-4a6a-aa8e-0e3b9552effb,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-15 12:29:18,506.02,debit,483ba5fded1ee203,platform,UPI,salary,Dolores velit laudantium.,2230.68,
+d357a2f9-a785-4047-882d-0cf2360be5be,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-16 07:49:34,1932.72,debit,87fc5b6bfebb79e5,peer,platform_payout,subscription,Odio vel nihil.,297.96,
+19efed79-c9e5-4e0a-9e1e-2c548fb3e0e0,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-17 03:09:50,695.84,debit,ea5dc48d09530131,platform,IMPS,salary,Incidunt nostrum maiores.,0.0,
+c612fffa-ac19-4eed-9213-9e65704dfd20,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-17 22:30:06,597.26,debit,ee5a5723f44c7ddb,peer,NEFT,platform_payout,Accusamus explicabo.,0.0,
+180a7f7d-4ee1-40bc-aa5d-f4bd35413dfc,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-18 17:50:22,2158.5,debit,a222276908b4f7f9,platform,UPI,subscription,Possimus praesentium.,0.0,
+63a81bf1-1726-4a32-83d2-4755fdaf737d,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-19 13:10:38,1959.81,debit,088072f1752293fa,employer,platform_payout,loan,Deserunt suscipit maxime.,0.0,
+b973c4d5-f83b-409e-8e0f-af10d9f10bc9,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-20 08:30:54,481.96,debit,4f535288957ee5b8,employer,NEFT,transfer,Cumque aut.,0.0,
+3a7d1b2a-b457-4b49-940a-532e68c87af5,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-21 03:51:09,463.37,debit,e6f2915033ab0098,employer,NEFT,salary,Molestiae cupiditate sunt nesciunt.,0.0,
+b25cb643-c519-4071-96e2-c64b37be1fd1,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-21 23:11:25,206.88,debit,e1529d590c4b6aa4,peer,IMPS,rent,Similique excepturi.,0.0,
+bf0c50af-3f45-43d5-b316-5c5442898042,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-22 18:31:41,1389.34,debit,82bd72ae64199605,employer,NEFT,fuel,Pariatur.,0.0,
+6e23c133-d601-4ba1-844c-f3fc497e0811,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-23 13:51:57,256.69,debit,b2f30d4e8b2f9d2c,merchant,cash_deposit,subscription,Dolor perferendis.,0.0,
+a72ba6b9-c9e9-444f-8c2d-fd3390607057,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-24 09:12:13,1065.89,debit,9a02f7c8a06093d3,unknown,IMPS,salary,Deserunt quidem.,0.0,
+959558fd-bae8-4973-8b4e-49e827322ac9,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-25 04:32:29,1541.41,debit,a09c0a6b7dcde0ae,peer,cash_deposit,salary,Inventore ipsam consequuntur.,0.0,
+01781dc6-411e-4dc0-b4c4-03d74089f86c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-25 23:52:45,99.19,debit,e81e9e67fdc76df9,unknown,cash_deposit,platform_payout,Labore.,0.0,
+d6088152-7ef2-4cf7-b392-28a6987edb38,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-26 19:13:01,905.33,debit,335298a8e8bc6d74,merchant,UPI,rent,Et cumque unde.,0.0,
+638a45f8-8e63-44e2-8457-204ec377df24,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-27 14:33:17,2345.84,debit,be309be6089fc153,peer,platform_payout,transfer,Quam beatae.,0.0,
+1eddd3d1-6657-4df9-a208-896912e2805b,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-28 09:53:32,224.05,debit,f9379596ca273e6c,peer,cash_deposit,grocery,Aperiam quod aliquid.,0.0,
+0152cfc9-3e47-494b-ba44-828770ef764e,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-29 05:13:48,1995.54,debit,2f091fe68eda6c7f,platform,platform_payout,fuel,Facilis officiis architecto.,0.0,
+63554311-9b6d-4ffc-beb7-34da7e642dbe,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-30 00:34:04,1016.74,debit,692c1b766a1eabf2,peer,cash_deposit,subscription,Modi rerum nemo.,0.0,
+a8bea056-0cc0-4ce6-ad09-8ac9361a7ca9,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-09-30 19:54:20,245.87,debit,cdda2e46ee703295,merchant,cash_deposit,loan,Maxime quos.,0.0,
+39bc6cc0-cc89-4b50-a988-db8c740ee1fe,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-01 15:14:36,1427.72,debit,785f8c06a1505d38,employer,NEFT,transfer,Repellat ipsam.,0.0,diwali
+2f5b8cf3-e520-4b10-b3ea-cc216fe6dfc7,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-02 10:34:52,158.95,debit,6f1fd6bb14577277,peer,platform_payout,platform_payout,Assumenda illum sapiente.,0.0,diwali
+5b1f0246-22e0-4f0b-bedf-9922a3c77f97,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-03 05:55:08,3196.95,credit,a2dbafd34a7114da,peer,IMPS,loan,Odit vel.,3196.95,diwali
+22c754c4-e790-4161-a169-df5cb46285a4,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-04 01:15:24,1426.99,credit,d462a7fa7117f4b4,merchant,UPI,grocery,Pariatur hic.,4623.94,diwali
+5d85783c-ba9f-41cd-b22c-f4375dc0ec7b,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-04 20:35:40,2522.62,credit,d8dd12f67bc14a2c,unknown,cash_deposit,transfer,Reiciendis.,7146.56,diwali
+4748b79f-5186-4d7a-9ba7-55474f8f2c42,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-05 15:55:56,2699.93,debit,87b6001b901336f7,platform,UPI,tip,Sed molestiae dolorum.,4446.63,diwali
+7f2b8bf1-ef31-4d98-ab01-0294ace1fb26,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-06 11:16:11,2455.05,credit,3bf25f6b050c1787,unknown,cash_deposit,tip,Id excepturi praesentium.,6901.68,diwali
+94abd148-128e-4604-bb01-bcbb453a8525,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-07 06:36:27,2384.58,debit,86385d73993f25ca,unknown,NEFT,fuel,Amet aliquid.,4517.1,diwali
+7aaa4012-3bca-440a-b8c8-ab87a28d3f36,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-08 01:56:43,391.41,debit,53a6dd702f0d1b4b,peer,UPI,loan,Doloribus iste magnam.,4125.69,diwali
+d45abc09-4405-4d05-8ce0-c8a349f386f1,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-08 21:16:59,858.17,credit,f0d422418f0d770c,platform,cash_deposit,loan,Suscipit inventore.,4983.86,diwali
+9461aa1a-3ce8-41ad-9ce2-13232e9bdc2a,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-09 16:37:15,2806.65,debit,3606ad7e5d9d8471,unknown,IMPS,subscription,Atque.,2177.21,diwali
+582b8c7a-d7cc-4e21-aa23-da0d225e7f03,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-10 11:57:31,255.97,debit,65dc63c9b681f8a0,employer,NEFT,grocery,Nisi culpa.,1921.24,diwali
+fb24aea9-977c-4168-899e-0dab8059463c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-11 07:17:47,920.28,credit,cef2a2adfcb53389,unknown,UPI,rent,Sapiente nulla.,2841.52,diwali
+ddaaa2ea-81e8-4320-bd98-5d2d9741560d,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-12 02:38:03,1345.6,debit,2b0822524a9ec97c,peer,platform_payout,loan,Reprehenderit aliquid assumenda voluptatibus.,1495.92,diwali
+462eb0b8-6940-47b4-a53b-29fdd5709726,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-12 21:58:19,2872.2,debit,4c8a8faafca38612,peer,cash_deposit,loan,Id possimus.,0.0,diwali
+2b881eb0-5f4c-425a-b5dd-2e788f6e226d,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-13 17:18:34,3033.57,credit,62c9889dc35d7e88,merchant,cash_deposit,platform_payout,Reiciendis recusandae.,3033.57,diwali
+5178e448-8745-42b1-ba0e-80a1cb7d6dc9,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-14 12:38:50,771.0,debit,6764aa672e52e567,platform,platform_payout,tip,Architecto quidem.,2262.57,diwali
+36468126-04d2-4750-a9b3-5e8578180f15,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-15 07:59:06,2766.94,debit,0ebc577b84457dfb,unknown,UPI,fuel,Alias pariatur quia.,0.0,diwali
+0501d038-0378-4640-98b6-c7edddcc104c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-16 03:19:22,811.55,debit,59d61fba18e8598c,merchant,UPI,salary,Quibusdam doloribus repellat.,0.0,diwali
+6688d655-8c54-4175-8d2d-7e2e27ada8da,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-16 22:39:38,2869.91,debit,a2ea25ec9ed4357b,merchant,UPI,loan,Quod expedita.,0.0,diwali
+f167f610-51db-4216-bfea-71c8e1d029a8,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-17 17:59:54,775.4,debit,e59724cc93a2464b,peer,platform_payout,transfer,Aliquam numquam quos.,0.0,diwali
+897b739b-3241-4b0e-8f3d-2fe0f74954cd,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-18 13:20:10,2914.81,debit,148971f7dfe27eb7,employer,IMPS,transfer,Veniam consequuntur.,0.0,diwali
+cef813f7-1786-49e8-a776-e463e4f1f498,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-19 08:40:26,2785.78,debit,1aa386bf0049c0d4,merchant,NEFT,tip,Labore quo architecto.,0.0,diwali
+15d71d64-9f0f-4de0-8917-0dbc3e09248a,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-20 04:00:42,85.52,debit,a01b3065a22130ab,peer,NEFT,grocery,Perferendis.,0.0,diwali
+cb908357-5708-49cd-a6cf-24311789a2ed,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-20 23:20:58,2763.4,debit,428d4ff5ff2268e0,merchant,platform_payout,rent,Cumque facilis iste.,0.0,diwali
+3896f955-5225-4035-a251-d9ab8a5bc369,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-21 18:41:13,2993.26,debit,9cd149a23af3026a,peer,NEFT,grocery,Facilis consequuntur.,0.0,diwali
+1db75202-1917-439d-8280-87e239f8293c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-22 14:01:29,1035.69,debit,0fd1427969581da9,merchant,NEFT,loan,Ullam neque.,0.0,diwali
+44c0e3f0-2624-414e-b09e-0b49b7c55fa3,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-23 09:21:45,2310.46,debit,d01e70f2c73beb18,platform,cash_deposit,fuel,Quaerat dolorum esse.,0.0,diwali
+45926705-91b8-4973-8148-28c8279b23d4,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-24 04:42:01,188.74,credit,734d4c536651b81b,platform,platform_payout,platform_payout,Accusamus harum nam sint.,188.74,diwali
+d395fae4-7544-44df-87a5-ad48b46b06eb,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-25 00:02:17,391.0,debit,fee728028e0eedf3,merchant,IMPS,salary,Deserunt neque quos.,0.0,diwali
+357b617c-f3b8-4fed-aa04-69e808f1f14c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-25 19:22:33,1343.53,debit,25f15bbcc7fa0794,peer,platform_payout,transfer,Eum consequuntur.,0.0,diwali
+08c82a51-dade-4921-a067-a39f4e82b559,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-26 14:42:49,849.71,credit,97b25413ca9eb667,peer,IMPS,platform_payout,Fuga ducimus iusto.,849.71,diwali
+7e09c4b6-c1bf-4ac4-93c6-a9210e6813d8,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-27 10:03:05,694.86,debit,0e7bce41d04e77bd,merchant,cash_deposit,loan,Cumque aliquam.,154.85,diwali
+083daed7-44b0-4951-8c85-c3cc331d7c26,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-28 05:23:21,2639.97,debit,eb5efa0412fd0246,platform,platform_payout,tip,Nisi.,0.0,diwali
+b8bf550b-f964-47ea-a169-b7dcb22eedf5,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-29 00:43:36,3211.63,debit,7cdeb27d293fbade,unknown,platform_payout,grocery,Officia tenetur facilis quia.,0.0,diwali
+aa36d737-00a8-4558-b685-60194dc5763c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-29 20:03:52,925.39,debit,a9c818a915efe50b,unknown,platform_payout,transfer,Rem eveniet fugiat.,0.0,diwali
+166e1920-a58f-478c-a4a3-c7bc78cf0798,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-30 15:24:08,742.75,debit,9f6351152a4ec8d3,peer,UPI,platform_payout,Quod occaecati modi voluptates.,0.0,diwali
+399c1666-f375-455c-b43c-7e8338558166,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-10-31 10:44:24,1975.07,debit,edda4e79555c1442,peer,IMPS,platform_payout,Mollitia veniam facere.,0.0,diwali
+589ffb2f-fa06-4661-9a3a-94cbad68cbdb,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-01 06:04:40,2019.72,debit,a189165d19b5fe7c,platform,platform_payout,loan,Non fuga.,0.0,
+2533d1db-c3d2-4db2-bd67-c6f327497514,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-02 01:24:56,1158.3,debit,3f947f78dcca32b3,unknown,NEFT,salary,Magnam harum.,0.0,
+397b4ca4-54d0-4636-ab95-d0d5db3af303,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-02 20:45:12,1793.05,debit,f2526af26d2c1395,peer,IMPS,grocery,Quo adipisci.,0.0,
+9cc321ef-d17b-4195-be2b-37f7376a21e9,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-03 16:05:28,1958.38,credit,f67b0766badd6d3b,unknown,UPI,grocery,Quam iure.,1958.38,
+ccb10281-4bf6-4e43-ba2c-e9c00b841da6,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-04 11:25:44,2154.76,credit,f7c8a854b9f083bf,platform,NEFT,salary,Expedita ex ad velit.,4113.14,
+21afeaba-ffd7-4608-acdb-7d50f4ac2558,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-05 06:46:00,318.45,debit,2eda550a5da41ed1,merchant,platform_payout,subscription,Tenetur in incidunt.,3794.69,
+6983c3b3-f13f-4110-9ded-995e81c7ae63,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-06 02:06:15,1754.46,debit,849b7aff1caa52bd,employer,cash_deposit,rent,Dolorum saepe voluptate.,2040.23,
+6e35cb55-05d5-4c36-bb91-8d1f6a357a1b,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-06 21:26:31,1625.9,debit,3857abd296280322,platform,platform_payout,rent,Animi accusamus cupiditate nihil.,414.33,
+ad93ae8b-655c-4396-b9fb-76223b6836d1,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-07 16:46:47,1883.28,debit,70a61ad00fb5a47e,peer,cash_deposit,rent,Tenetur.,0.0,
+eb7ef80a-9aae-4e32-8a9b-6ba6ccad55c8,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-08 12:07:03,958.73,credit,754f29745228913c,employer,IMPS,loan,Et numquam dolores.,958.73,
+891604a0-808b-422c-a8ad-6015a747e8dd,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-09 07:27:19,1591.05,debit,8f0b36e7b540f841,platform,IMPS,tip,Distinctio ut.,0.0,
+5e442c40-4a42-42bc-8f89-3b24a2cf925c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-10 02:47:35,214.54,debit,d9880521b4bc067d,employer,NEFT,tip,Velit animi.,0.0,
+8836ef3b-efd1-463a-a9d2-9ea808376aa7,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-10 22:07:51,1913.93,debit,7224a87b620598b3,merchant,NEFT,tip,Doloremque beatae.,0.0,
+af570e85-7ce7-4ed7-9254-6d3d7f277c22,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-11 17:28:07,1918.87,debit,98418710c7c14e7b,merchant,platform_payout,fuel,Nemo non corrupti.,0.0,
+28f4ac45-7c9c-467a-99c0-934336d1d9d0,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-12 12:48:23,752.53,credit,f88cdfe2e7304e5e,employer,NEFT,platform_payout,Blanditiis tenetur nihil asperiores.,752.53,
+c1376e80-d85f-455d-a5de-051fa749f6fa,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-13 08:08:38,1380.65,debit,54f64a2ad3dad3f0,merchant,IMPS,fuel,Saepe itaque maiores.,0.0,
+3401cd18-12d9-48bd-bfc8-877279217836,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-14 03:28:54,840.99,debit,0b49b389db65eb15,platform,NEFT,salary,Non ex architecto.,0.0,
+4c6e5a7d-b1de-46fd-99c0-5710a38b6874,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-14 22:49:10,1109.74,credit,8c6f61e30069e083,merchant,UPI,fuel,Fugiat quasi.,1109.74,
+33440cd4-b580-4f8d-ba73-45745619fe13,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-15 18:09:26,1640.89,debit,54afeece72a52246,merchant,NEFT,salary,Placeat alias cumque.,0.0,
+ee870a68-7b13-4023-8aca-06481b639059,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-16 13:29:42,239.42,credit,e4a0a5a71c7d70f9,employer,IMPS,tip,Tempore totam nobis.,239.42,
+3f299cc5-8208-4bc0-8202-af737b8601ed,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-17 08:49:58,353.16,credit,7b127866ad1a0be0,platform,NEFT,fuel,Ducimus aliquam.,592.58,
+03661d1e-12bd-4edb-b787-45c0ba0af992,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-18 04:10:14,1653.64,debit,ad30a6222f6b36c2,platform,IMPS,platform_payout,Optio molestias pariatur.,0.0,
+d077a3ab-822c-42a5-8dcc-d7adaea80468,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-18 23:30:30,1745.98,debit,0b9f179d492f1fba,peer,UPI,rent,Magnam officiis ipsum.,0.0,
+d3a92bdb-f0b2-40a4-a78c-a2c609a29312,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-19 18:50:46,62.15,credit,29cca0486dacb98b,employer,NEFT,grocery,Corporis occaecati ea.,62.15,
+1f4914c1-b37f-4137-90de-8e17b6880920,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-20 14:11:01,366.07,debit,eb46a23b3e387258,employer,platform_payout,grocery,Aut eum.,0.0,
+fc5ead34-3a8b-4c20-b782-aedaddd9c555,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-21 09:31:17,2305.56,debit,b20a0af380f3293c,platform,UPI,loan,Eligendi quia doloremque.,0.0,
+99ee9ed5-0070-4086-a088-c3b9ba44a4ee,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-22 04:51:33,1358.1,debit,41278cf128c14a6e,merchant,UPI,fuel,Doloremque.,0.0,
+09ba0f1c-95b7-4b94-bd56-56cd92e7a14d,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-23 00:11:49,1465.22,debit,455198a83e749574,peer,cash_deposit,rent,Ducimus iste.,0.0,
+0f845093-00da-4ace-8bfc-c5d448f68044,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-23 19:32:05,2325.98,credit,fa4d9f5b708f3e72,employer,platform_payout,platform_payout,Odit.,2325.98,
+92c089cd-bab0-4cd8-9b56-f6b236782d9e,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-24 14:52:21,1414.23,debit,b182ba3512a0e813,platform,cash_deposit,rent,Porro ipsam ad.,911.75,
+82a46ffc-61d8-4ef6-83cb-5248fa7fcf87,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-25 10:12:37,423.18,debit,a355215ea202eb9d,merchant,platform_payout,tip,Eum error.,488.57,
+1ef4ca12-2196-432d-a347-3f9cf2d3a6ee,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-26 05:32:53,988.99,debit,033f757f639d0206,unknown,UPI,salary,Blanditiis voluptatibus aliquam.,0.0,
+0391766d-5821-4ea5-aeb4-ebe80c571cc2,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-27 00:53:09,1228.92,debit,5aaa3139413188dc,merchant,platform_payout,platform_payout,Cupiditate adipisci asperiores.,0.0,
+c2bf769d-9e2a-4793-a24d-d0b543252767,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-27 20:13:25,1041.8,credit,93154ae6dca2741a,peer,platform_payout,transfer,Excepturi iste blanditiis.,1041.8,
+8ec3a9ee-82dc-41ab-af1f-0c8b422c0e9d,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-28 15:33:40,1544.58,credit,9c28aa36d543916a,unknown,UPI,transfer,Eligendi.,2586.38,
+2dcdfe4e-bb5c-41bc-9c03-2ff706a9239e,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-29 10:53:56,1130.18,credit,b9b5956d6b5d06c3,employer,IMPS,loan,Dolorem similique cum.,3716.56,
+ff6c468e-747a-41ca-a683-b2ffe00bb8a0,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-11-30 06:14:12,1366.36,debit,70f011e1501abdcf,peer,UPI,fuel,Numquam nobis.,2350.2,
+a72072a6-32e1-4a99-88ad-459913dedcb1,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-01 01:34:28,2279.19,debit,f35e67f0cd56b9bd,merchant,platform_payout,transfer,Et reiciendis et.,71.01,
+f5d7d0e8-5eee-4b70-8452-914c847dd0f7,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-01 20:54:44,1318.76,debit,a303ac31035c6961,merchant,IMPS,loan,Blanditiis officia dicta.,0.0,
+10c82ba8-82f6-4e0e-b040-b9ca5a5527d7,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-02 16:15:00,644.81,debit,efccc854ee00e051,platform,platform_payout,platform_payout,Numquam blanditiis ducimus.,0.0,
+bad4f1a6-bbb7-41d9-956e-39294c9eba6a,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-03 11:35:16,1248.83,debit,666b8ce0994c7896,platform,IMPS,tip,Fuga magnam.,0.0,
+edaf0b40-7f03-4b41-946c-242f75c6f76a,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-04 06:55:32,557.93,debit,320796e94cbedb09,employer,cash_deposit,tip,Qui animi.,0.0,
+f85c8841-0d1c-4247-b380-9d4997bacc2f,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-05 02:15:48,2119.23,debit,f2584239e5d23a85,employer,cash_deposit,fuel,Distinctio vel.,0.0,
+70b8a483-3baf-4677-80c5-1d24e7b2d106,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-05 21:36:03,2129.79,credit,d8d88635b7dc8ff4,merchant,UPI,transfer,Facilis unde numquam.,2129.79,
+4d985284-797c-4002-8ce9-a985365cef0e,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-06 16:56:19,1193.91,credit,4bd0c7c8490fe499,peer,UPI,rent,Dolores praesentium quo.,3323.7,
+7a560973-a966-409d-9664-395f16c036fe,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-07 12:16:35,2122.54,debit,0f10813c45c2fff9,platform,IMPS,rent,Quis illo dignissimos.,1201.16,
+4021ebfc-44f1-45c8-804b-419cab522025,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-08 07:36:51,2079.13,credit,a46a0e794fccf066,merchant,IMPS,subscription,Natus consequuntur veniam.,3280.29,
+ef43433f-6767-4a4e-9c97-0cba79bd8d5f,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-09 02:57:07,1561.11,debit,59f91f5af0945f8f,platform,IMPS,grocery,Et vero iure.,1719.18,
+5c8d8d5e-8365-41b8-ad3a-cfb578d4b82c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-09 22:17:23,1457.94,debit,ba04354da11d6822,employer,platform_payout,tip,Sequi assumenda.,261.24,
+4fe525f5-fa9d-44ea-a5e8-ba5ea2eb66f0,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-10 17:37:39,377.31,credit,5154de7f120b716f,platform,platform_payout,platform_payout,Nesciunt fugiat ex incidunt.,638.55,
+c97046e5-2c06-45e9-8961-cdfc21660812,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-11 12:57:55,1999.18,debit,c8e7d76598c43bae,merchant,platform_payout,fuel,Non ratione.,0.0,
+eaf77eff-bbf6-4558-b22d-cf60ad2dc3b5,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-12 08:18:11,1782.36,credit,3d828ed3d37dc9dc,peer,NEFT,fuel,Molestiae.,1782.36,
+c06697d3-9d98-45dd-95b2-9d2ac500879b,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-13 03:38:27,119.44,credit,3017c6fac355e3e9,peer,NEFT,loan,At voluptatibus.,1901.8,
+c1c463bf-e06a-46eb-8ded-202cd4dd966b,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-13 22:58:42,424.9,debit,fcf8120e236c2676,unknown,cash_deposit,grocery,Ut doloremque aliquam.,1476.9,
+3efbddaf-f344-4abb-a169-898e8b26c386,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-14 18:18:58,476.09,credit,b6f7654cc281dad0,platform,NEFT,platform_payout,Laboriosam voluptatem nesciunt ipsam.,1952.99,
+58dbff00-9a08-42b1-a3a2-27516542d14b,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-15 13:39:14,1800.12,debit,ae438c86667fb076,platform,UPI,tip,Adipisci magni culpa amet.,152.87,
+3da32a21-e755-4676-9616-2b9ecaa89839,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-16 08:59:30,1413.82,debit,b9d35217fb1f773e,employer,UPI,platform_payout,Neque eligendi.,0.0,
+2f8ca644-4f89-4e60-977a-601ac9ec68d8,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-17 04:19:46,2355.26,debit,6b1a95240c151472,employer,IMPS,loan,Ratione.,0.0,
+ec2996fe-7d60-4d59-b969-d0f775f47979,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-17 23:40:02,326.26,debit,291beb838ea75d29,unknown,NEFT,transfer,Modi dicta.,0.0,
+1f44b63f-59e1-47a0-bc6a-3495e867360e,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-18 19:00:18,1995.57,credit,a566d0a7c17bfdeb,unknown,platform_payout,grocery,Officiis sunt.,1995.57,
+4eda8f66-e0d0-4b19-a217-25993aa5b7fe,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-19 14:20:34,1035.27,credit,a61e8f950ab8a499,merchant,IMPS,transfer,Quas ut.,3030.84,
+f99dfb1d-47a2-47bc-8f75-bed9e2f50427,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-20 09:40:50,1874.65,debit,03ee17ad251592f4,merchant,IMPS,salary,Harum blanditiis.,1156.19,
+f2a5ea8e-8c78-45f1-9e13-e9e63e1ca6e8,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-21 05:01:05,731.61,debit,614e190f8ebc9742,platform,NEFT,subscription,Rem tenetur ducimus.,424.58,
+04f4cc62-61b3-428f-8f21-8aceab8fc1ed,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-22 00:21:21,1458.4,debit,34565bfd0708be5c,employer,UPI,loan,Aliquid repudiandae eveniet hic.,0.0,
+1fafe0c4-8dc8-43cc-ae7d-5a4c8e34bfb9,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-22 19:41:37,1248.99,debit,6609ad6449b93f56,unknown,platform_payout,tip,Perspiciatis fugit fugiat.,0.0,
+882448f6-7a11-45c2-8b58-e054c199e561,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-23 15:01:53,494.65,debit,2558b50287b129eb,peer,NEFT,salary,Consequuntur natus.,0.0,
+10ae7332-68a9-406f-9100-5e18e0780148,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-24 10:22:09,1961.76,debit,b4d73164b3cd0eeb,platform,UPI,rent,Alias.,0.0,
+c6e71b47-c04c-4d05-8caf-aec5709b0f0c,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-25 05:42:25,610.26,credit,aba25fa41d1492bc,employer,platform_payout,loan,Quaerat dolor cum.,610.26,
+56d951b3-fc35-441b-bcb2-518581ccbb25,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-26 01:02:41,314.21,credit,aeec3093d3d48cc3,platform,NEFT,platform_payout,Repellendus vel optio.,924.47,
+26caa5f9-bc8a-4c7d-908f-ed3b3a041b3b,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-26 20:22:57,2107.8,credit,f6da37a71dfc79bf,peer,NEFT,loan,Quis iste.,3032.27,
+077d273f-57c7-4808-b0dd-403ad421c378,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-27 15:43:13,1712.44,debit,56c60309063d82f5,platform,NEFT,rent,Facilis totam sint.,1319.83,
+d0e2de39-127f-4513-b3ed-cd76b11a9bc8,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-28 11:03:29,1288.57,debit,f7ca601832cc76e7,unknown,IMPS,grocery,Quaerat illum.,31.26,
+72d96c13-7cb4-4c69-935c-9c4f65c5af38,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-29 06:23:44,1342.44,debit,ba980e3cfe2b1ea9,employer,cash_deposit,salary,Saepe voluptatum.,0.0,
+7dcb5bff-494b-4aa9-accd-42844bb57c4f,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-30 01:44:00,436.17,credit,eefbd2000a4ebb39,employer,UPI,subscription,Reprehenderit quisquam.,436.17,
+613e28f1-d785-470d-91b6-e5e2812c7400,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-30 21:04:16,1555.67,debit,2412e49de8fd30ff,employer,UPI,transfer,Recusandae eius nisi tenetur.,0.0,
+5bcafb25-ea11-44ff-91b2-59398ccf2632,0260421f-0671-4563-ae06-1e0dbde7aea3,2025-12-31 16:24:32,2274.08,debit,7bdb09836951a323,unknown,NEFT,fuel,Necessitatibus voluptatibus doloremque.,0.0,
+11e609c0-3184-4cfe-9194-812fc20676c9,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-01 11:44:48,1277.62,debit,9f58f71754799af8,merchant,cash_deposit,platform_payout,Unde vitae.,0.0,
+8eac1d22-7f08-4b10-b41f-00456f360b79,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-02 07:05:04,610.27,debit,748e12f6d7b086ad,unknown,cash_deposit,transfer,Ea deserunt.,0.0,
+491c1eb5-30d7-4bac-bfc7-64d5b4aeae23,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-03 02:25:20,1453.59,debit,ea58d0aa97fac13e,platform,platform_payout,salary,Eius eos cumque.,0.0,
+eead095b-664f-409b-bc83-6a2e51b111a7,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-03 21:45:36,1893.46,debit,4d03a972a1459940,employer,UPI,subscription,Aut fuga veritatis.,0.0,
+803e6b39-a0af-44a5-b66c-118cb68915bc,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-04 17:05:52,1203.6,debit,7c97b8e44a315ce3,peer,platform_payout,fuel,Sit aspernatur.,0.0,
+6b3f3910-f605-48da-9c64-9fd9b02d44f6,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-05 12:26:07,1400.69,debit,3350b367e11404e0,unknown,NEFT,tip,Voluptatibus sed incidunt.,0.0,
+2d42f26d-2eb6-40b8-af04-ee42ac993897,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-06 07:46:23,248.89,debit,b2bc0a6fc3699848,unknown,platform_payout,subscription,Quas excepturi.,0.0,
+6118feaf-ddc6-4874-819e-b4960c5e3390,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-07 03:06:39,1826.74,debit,ea6cea79af40ad53,merchant,cash_deposit,subscription,Autem corporis eaque.,0.0,
+d984f4e2-9b78-46cb-b2f3-9bcf12cc2b83,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-07 22:26:55,110.49,credit,99b1e32b24f36ca2,merchant,NEFT,loan,Odit ab ipsa.,110.49,
+6d45ffb1-df16-4b11-90f2-cb158b07d429,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-08 17:47:11,1596.97,credit,441b06ed00758b52,unknown,platform_payout,platform_payout,Neque eius minus.,1707.46,
+0e09f25b-10df-4c5a-bffb-44f5021be6af,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-09 13:07:27,1566.44,credit,2484e89213a75373,merchant,IMPS,grocery,Modi voluptatem repudiandae.,3273.9,
+3e8eb1bd-70f9-4544-9131-43d7025d72f8,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-10 08:27:43,411.28,credit,be498ce2bbf99b29,employer,NEFT,platform_payout,Quidem maiores qui.,3685.18,
+a08ffbef-e5d5-44c7-8b32-fd5b999d9be6,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-11 03:47:59,261.82,credit,f9db5daaca5ec95f,merchant,platform_payout,tip,Repellat eveniet nesciunt rem.,3947.0,
+e25c4f97-f7dd-471c-98b6-42874e9fb28b,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-11 23:08:15,972.46,debit,7e7641220a0cb88c,peer,NEFT,loan,Voluptatum eligendi similique.,2974.54,
+946ca57c-d0e0-41bc-90d7-9fa150919778,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-12 18:28:31,1931.61,credit,a79b361ab7937b83,employer,platform_payout,platform_payout,Eligendi mollitia.,4906.15,
+1d8ae52e-2c62-44ca-b079-daa828350f32,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-13 13:48:46,386.89,credit,112638a8bfe3b581,platform,UPI,platform_payout,Voluptas illum.,5293.04,
+9203e13e-3ff6-411b-91c2-c9efe125ab29,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-14 09:09:02,989.43,debit,d5f99afa1113f90e,platform,IMPS,loan,Impedit tempore culpa.,4303.61,
+d1180792-6f97-4a00-983c-e2496875f449,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-15 04:29:18,1745.77,debit,088d0465733b1c9e,unknown,IMPS,transfer,Soluta tempora.,2557.84,
+347c4300-3a66-47f5-9c5f-b6389db1b4ce,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-15 23:49:34,1303.04,debit,eef209c3a4d1e0b9,unknown,platform_payout,tip,Exercitationem ducimus unde.,1254.8,
+dcfbf87e-3bde-4047-b69a-5552b0165475,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-16 19:09:50,1525.83,debit,02fc214c89004d44,peer,platform_payout,platform_payout,Consectetur consequatur.,0.0,
+07d83a1d-a5fd-4b53-acd6-3d26d7bedd38,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-17 14:30:06,1029.15,credit,ee288cb78b73f711,peer,cash_deposit,subscription,Dicta velit recusandae.,1029.15,
+0cdb68cd-8944-4c64-b050-e666e23ca72c,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-18 09:50:22,1211.86,debit,789720d9a2460415,platform,IMPS,loan,Harum earum nesciunt.,0.0,
+11021824-51a6-4237-b8ed-1dacdfcd82d4,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-19 05:10:38,166.97,debit,9506d471e88a4b93,platform,IMPS,transfer,Doloremque totam explicabo.,0.0,
+7db309e9-3b6a-4a97-85d9-4596452b6688,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-20 00:30:54,2281.91,debit,34aa338b30204d87,platform,platform_payout,fuel,Ipsum qui tempora.,0.0,
+93c8c9ce-1faa-444e-ae84-a86efb52cbb0,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-20 19:51:09,668.64,debit,ba4ffbd0938cb62e,employer,UPI,grocery,Dolores sint vero accusantium.,0.0,
+6d862130-331c-45ac-8556-61bb6d455011,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-21 15:11:25,2119.72,debit,488c4fb99f30a8a0,employer,platform_payout,loan,Itaque.,0.0,
+065e3f16-f596-4f17-8ae7-250e765ad659,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-22 10:31:41,863.94,debit,3ff0cdf9f73e469e,merchant,NEFT,rent,Itaque fugiat voluptatum.,0.0,
+521bf364-6d0d-42f7-8e18-de0fee617119,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-23 05:51:57,1494.3,debit,2ed472c38ffad780,peer,NEFT,fuel,Consectetur tempora delectus.,0.0,
+301f1f1e-448e-45e4-95a0-4be8730db9a9,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-24 01:12:13,1371.87,debit,5512a86e1d081dcc,unknown,cash_deposit,rent,Unde deleniti.,0.0,
+f3b241ed-43ee-4def-be20-6a349db0b1cf,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-24 20:32:29,2279.09,credit,32b6a5425757f1a0,employer,UPI,rent,Quos.,2279.09,
+8e992a4e-2bf2-4f63-b119-88e88c2f7c29,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-25 15:52:45,182.23,credit,414cb1bd4340129b,employer,platform_payout,transfer,Eaque deleniti.,2461.32,
+1bd86737-398f-40fb-97ae-b9abdbb7b12e,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-26 11:13:01,2249.28,debit,08dcb92b88a4aae3,platform,IMPS,tip,Nemo suscipit fugit.,212.04,
+d3630805-5a92-4a34-abc3-4bae090210a1,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-27 06:33:17,1618.28,debit,3f14552f0f1e8e8a,peer,UPI,tip,Molestias quam beatae.,0.0,
+118ca87f-6a16-4ec9-b4d3-60aefaa29b40,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-28 01:53:32,69.52,credit,2dc1eb6c04b818fe,employer,NEFT,transfer,Rerum ratione perspiciatis.,69.52,
+0e2c726e-d2ae-4f9d-a31f-8ee619dc4eea,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-28 21:13:48,586.48,debit,bfdc6c80c4f4758f,employer,IMPS,salary,Incidunt soluta animi.,0.0,
+810241ff-2f55-41d0-9d69-e3df15cf2414,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-29 16:34:04,767.37,credit,59b952148173955a,peer,IMPS,grocery,Consequuntur repellat.,767.37,
+c414ca28-42a3-4694-8b4e-e3f64adfecb0,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-30 11:54:20,2054.55,debit,9ba12ca35d217022,platform,platform_payout,grocery,Quae in.,0.0,
+e785ccd3-b0b5-4e9f-9ceb-0fd70deafae2,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-01-31 07:14:36,727.38,credit,7e1f8ec05d108b50,merchant,UPI,rent,Velit ipsa dolorem.,727.38,
+993e17a0-5e02-498b-b277-976a5e055fd7,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-01 02:34:52,2196.32,debit,ce3fe63205cec484,platform,UPI,fuel,Sapiente exercitationem quo.,0.0,
+8cd4ecfa-eed6-404f-9ff3-0ce952af5d04,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-01 21:55:08,346.13,debit,4d10df7c11209a81,employer,cash_deposit,rent,Quisquam veniam.,0.0,
+fb19753b-d9ae-4ea5-ae31-e6180af3a991,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-02 17:15:24,1873.88,debit,3a427d5d0f60a6ae,platform,UPI,grocery,Commodi provident.,0.0,
+0ae4555a-3526-477d-ba2e-51b20ad443c1,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-03 12:35:40,1957.7,debit,a4183ab068747a3c,unknown,UPI,loan,Iure iure totam.,0.0,
+b79a14b6-0134-402a-8010-fb623f4c961f,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-04 07:55:56,716.07,debit,8bfca41f7c43b776,peer,UPI,fuel,Fugit maxime.,0.0,
+b6ced386-7e5d-453c-b8eb-9312666855ae,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-05 03:16:11,1484.41,credit,016a8825623433b0,peer,IMPS,grocery,Veniam a.,1484.41,
+2c217257-e2de-4757-b44e-32faf894911f,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-05 22:36:27,189.39,debit,501b13219fefddde,peer,platform_payout,fuel,Perspiciatis sit.,1295.02,
+aab41c41-6e35-4fba-b459-b2b25e436d20,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-06 17:56:43,392.62,credit,9c0bf514101d25e5,employer,NEFT,tip,Architecto natus.,1687.64,
+101d6d6d-2747-4d74-aa30-e0f18009d118,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-07 13:16:59,1272.2,credit,d2d7d861fcca30e7,merchant,IMPS,loan,Eveniet ea.,2959.84,
+db5dbd89-3581-4072-8838-817c4b9a53d3,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-08 08:37:15,923.11,debit,14349771680ab6cf,peer,cash_deposit,loan,A ex similique.,2036.73,
+41cb192c-d978-45ab-90f3-156db3d52fcb,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-09 03:57:31,1324.34,debit,bb06d3060041dbb6,unknown,UPI,salary,Odio cum quibusdam commodi.,712.39,
+9d1d1c93-4b62-4063-ad66-01450f4e20b6,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-09 23:17:47,503.3,credit,0989c1df5767c86d,merchant,platform_payout,rent,Est nihil eius.,1215.69,
+677bcc34-856c-4ccb-9257-46b39a9e4054,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-10 18:38:03,100.99,debit,3fc16fa5eae8873f,platform,IMPS,subscription,Odio beatae ullam mollitia.,1114.7,
+e2ec0e4a-237f-40b7-be8a-48fa42844ada,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-11 13:58:19,1224.75,debit,1839a6ec6689c404,merchant,platform_payout,loan,Consequatur perspiciatis reprehenderit.,0.0,
+de91cca7-8bd2-4cde-9272-0c7940f6fecd,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-12 09:18:34,1017.27,debit,9df31639ac372cf8,platform,cash_deposit,platform_payout,Deleniti.,0.0,
+e1ad1983-f2f1-4748-9d90-f99715a7f3ce,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-13 04:38:50,585.56,debit,a7b8f78017bc4bc2,merchant,platform_payout,platform_payout,Natus quibusdam architecto.,0.0,
+b2efbfe2-4c55-4a9e-af8e-60d723c2c60f,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-13 23:59:06,112.28,credit,9e7a9465cb8d445a,unknown,UPI,grocery,Quibusdam quidem.,112.28,
+8962426a-8eb4-411f-ab20-caba6cff33f9,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-14 19:19:22,2048.68,credit,708443f07d7aeb0b,peer,IMPS,fuel,Sit facere.,2160.96,
+ed521507-da46-4d99-bb9e-b9f9113ae2d4,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-15 14:39:38,1513.31,credit,8a945d3a07e3b861,employer,cash_deposit,platform_payout,Porro totam maxime.,3674.27,
+98681eca-fc36-47d8-84d0-787d929bd67a,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-16 09:59:54,708.35,debit,2c11af08f27e1ae3,platform,platform_payout,platform_payout,Labore impedit pariatur corrupti.,2965.92,
+4183f976-85cf-473d-88e3-dd14667b248b,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-17 05:20:10,169.64,credit,78f33570f94d06c0,unknown,cash_deposit,salary,Veritatis dolorum.,3135.56,
+62ae4d07-e941-4fdc-b4b6-7a8f521f9ebb,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-18 00:40:26,2331.34,debit,884a9d5065b4006f,platform,platform_payout,transfer,Natus animi modi.,804.22,
+7d302ae1-dde1-44ac-836c-0a22df8bedad,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-18 20:00:42,410.61,debit,891a6099ca3a258f,unknown,IMPS,tip,Velit amet qui.,393.61,
+10b4e7f4-4362-4f2a-900b-0e5948e8d6d2,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-19 15:20:58,2198.02,debit,fea9cc2a5fc82225,platform,platform_payout,salary,Excepturi quis.,0.0,
+e85e79eb-f7f8-4b4b-892f-8f94fe7d2090,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-20 10:41:13,1862.1,debit,66953b11194e5e3e,unknown,IMPS,transfer,Perferendis debitis quibusdam.,0.0,
+74156569-d090-4393-b02a-d85b2129f389,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-21 06:01:29,673.21,debit,69a9e1255ad1a07d,platform,platform_payout,grocery,Ab cum.,0.0,
+1f8d6d99-3a40-49fe-a6f2-d3488ec16606,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-22 01:21:45,560.6,debit,0115cd27d3428e26,employer,UPI,transfer,Officiis neque.,0.0,
+257e5c7d-3a15-45c9-8af8-26b309f24068,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-22 20:42:01,1931.35,debit,f39e0f7ea0327add,merchant,NEFT,platform_payout,Quaerat totam.,0.0,
+40175c5f-eec8-43e2-93cf-fe718695e50b,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-23 16:02:17,1773.73,debit,8edafc150a4abd9b,platform,cash_deposit,platform_payout,Temporibus eos pariatur.,0.0,
+e847a916-152b-4b5f-b4d3-3ff46fa875f5,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-24 11:22:33,1904.99,debit,7aad259be2083c91,platform,IMPS,tip,Voluptatem porro fuga.,0.0,
+8577f0f5-a870-476e-8802-26624295e783,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-25 06:42:49,842.77,debit,9e5d2c0a2f3d3c8d,employer,IMPS,transfer,Minus ratione.,0.0,
+12c3a776-6498-4ed3-93cc-397f7e8b7a66,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-26 02:03:05,2203.74,debit,289fccfb33dc705f,employer,NEFT,grocery,Dicta pariatur.,0.0,
+b146f470-aa33-4ab2-aacf-812d631d3a82,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-26 21:23:21,2224.23,debit,3ebf1cef4a2254a6,peer,NEFT,platform_payout,Sapiente exercitationem error.,0.0,
+2fbfa160-18f5-4cdb-a135-54dad229cd93,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-27 16:43:36,312.06,credit,c79c6a79c15b16c3,unknown,cash_deposit,subscription,Repellendus cumque repudiandae.,312.06,
+f76374ad-6b03-4458-bee5-4b311294e3b3,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-02-28 12:03:52,492.71,debit,81156d31ae4d1507,employer,UPI,tip,Voluptate fugit beatae eveniet.,0.0,
+3fe5dab4-f0dd-4363-a6b7-6cfda72f92e0,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-01 07:24:08,492.03,credit,6ed93658bd44a4d2,merchant,cash_deposit,rent,Voluptatem totam quaerat.,492.03,
+7f659192-8856-40bf-80a3-2182cf4b7d22,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-02 02:44:24,905.66,credit,93ca08337cf638b5,platform,cash_deposit,platform_payout,Dolore rem voluptas.,1397.69,
+3c9b0b51-1aba-43c2-b93c-6bf7daacb85a,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-02 22:04:40,926.07,debit,b9601a7b2fc58e8c,platform,cash_deposit,grocery,Magni.,471.62,
+09b57b5c-f244-4341-b98d-5dd416f0a1ce,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-03 17:24:56,1146.08,credit,762e127125d19ffc,employer,platform_payout,grocery,Minima velit.,1617.7,
+37efa905-1bb3-486c-ae6b-94a382d670af,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-04 12:45:12,1551.37,credit,d3f581c60f93b277,platform,IMPS,fuel,Saepe officia repellat.,3169.07,
+0e8025b9-ec31-4042-acfc-0a8fc4a39c06,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-05 08:05:28,1510.13,credit,240e2ce0d55f7ec5,peer,NEFT,rent,Atque occaecati facilis.,4679.2,
+49b98064-95ef-46e5-90f1-d678224396af,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-06 03:25:44,1579.95,debit,7e02b7b9681dec0e,peer,NEFT,platform_payout,Fugiat quasi.,3099.25,
+967e9254-0c0f-41b3-8a9a-35d96e89b3f8,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-06 22:46:00,1532.69,debit,ac51262bf25ea1e8,peer,IMPS,grocery,Amet vero nulla neque.,1566.56,
+7fbd0620-a826-4ca9-a461-3149cb2e59b1,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-07 18:06:15,1325.88,credit,c6d42b68ac059d5e,platform,NEFT,rent,Aperiam aperiam.,2892.44,
+fbb24a1d-fdda-4ea5-8e68-22dfe58f9dcc,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-08 13:26:31,798.99,debit,245905d2dc6c3834,peer,platform_payout,subscription,Minima consequatur.,2093.45,
+43853541-a3b6-4dc0-ad05-627534eb991c,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-09 08:46:47,366.58,credit,c22cc5347d4255f0,peer,NEFT,rent,Ratione veritatis provident minima.,2460.03,
+4878b917-8c3e-46cb-b59e-3261f5cd3b76,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-10 04:07:03,1276.04,debit,5019ff55c2054042,platform,cash_deposit,platform_payout,Tempora ullam sint.,1183.99,
+e9a3d626-5275-4974-bc5f-b4f6e038e69d,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-10 23:27:19,2097.94,credit,bddbd33d98048b13,unknown,NEFT,fuel,Nisi saepe.,3281.93,
+ccce762a-1eeb-42c5-b0db-90b44fd53bad,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-11 18:47:35,781.56,debit,5af9ef3b0c36a5c5,merchant,platform_payout,salary,Expedita tempora.,2500.37,
+b40ab44c-a017-4ed6-8ece-3b06522804c5,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-12 14:07:51,1165.45,debit,75e50b5c4c3974ef,merchant,platform_payout,transfer,Sunt est nemo.,1334.92,
+0a1deaab-c0e4-4932-abda-203d1efd803a,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-13 09:28:07,1041.72,credit,f930394887338daf,merchant,UPI,salary,Soluta asperiores.,2376.64,
+2218ece8-fc87-472e-93f9-bb6f2adabdf7,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-14 04:48:23,1064.32,debit,ae364b643a30cf0a,unknown,UPI,loan,Illo tenetur.,1312.32,
+3223414a-54b5-4d1e-8a99-496dd08e60e4,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-15 00:08:38,1471.61,debit,f49ba6f451a61937,merchant,NEFT,transfer,Deserunt magnam.,0.0,
+b0e600ab-4e14-4117-abe9-611b7f7103dd,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-15 19:28:54,901.54,debit,5c61c999a506bb59,unknown,platform_payout,tip,Dignissimos sit possimus.,0.0,
+09aa941e-4b87-4935-80ed-13a200d164b0,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-16 14:49:10,1042.3,debit,9e7f6007f2d04d32,unknown,UPI,rent,At mollitia quam eos.,0.0,
+5cb8e0db-cef2-4510-9d06-7987fedc5692,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-17 10:09:26,272.12,debit,83565c043f109e05,peer,IMPS,fuel,Quaerat molestias unde.,0.0,
+4d730455-392d-4250-88e5-e0aed7330806,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-18 05:29:42,377.62,credit,aa86bb472393be68,peer,UPI,subscription,Sequi magni.,377.62,
+ecfc64f9-75dc-433f-be87-b0e76ee22f72,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-19 00:49:58,1208.8,debit,b9bfab035f8918a1,unknown,NEFT,subscription,Ipsa veritatis.,0.0,
+27d89f54-8827-4763-a299-5cfba19fe012,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-19 20:10:14,391.16,debit,91bf8511578525d0,employer,cash_deposit,subscription,Consectetur vel sit.,0.0,
+bbea6561-7723-45ce-9561-48b04783bbe5,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-20 15:30:30,192.63,debit,e0291ab0e82ca468,merchant,IMPS,loan,Asperiores praesentium facilis adipisci.,0.0,
+a400face-c894-4d29-8a05-1db33b3aeab4,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-21 10:50:46,1606.09,credit,20d1b9670ecf9ab3,platform,cash_deposit,grocery,Fugiat expedita sint ex.,1606.09,
+6803ebff-1fd7-42e8-a81e-7f1137876ea2,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-22 06:11:01,1129.47,debit,7fb21aa9d02eccac,employer,UPI,subscription,Deleniti autem.,476.62,
+b59f77e2-ac84-4989-9795-cdcefc37a6e7,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-23 01:31:17,960.12,debit,74f01cecced96c42,peer,platform_payout,subscription,Temporibus quis aperiam.,0.0,
+abcdd9cd-3898-4468-b47a-1a2b7d74a6a1,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-23 20:51:33,268.42,debit,2adc63b61c701673,platform,cash_deposit,rent,Non quibusdam.,0.0,
+4dcb9c92-52b1-41ef-81d5-ec8da563a406,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-24 16:11:49,552.02,credit,0bc5e228b5a8a87d,platform,NEFT,salary,Eligendi consequatur.,552.02,
+1909b26d-4598-4357-83a9-5ad604595051,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-25 11:32:05,2105.24,debit,15d983954a8a4e93,merchant,UPI,platform_payout,Quidem.,0.0,
+6ccdb8b3-0e6e-4b16-998f-f10ad359b945,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-26 06:52:21,2308.82,debit,12ee89b842d6684d,merchant,NEFT,platform_payout,Tempore voluptates est laudantium.,0.0,
+dd91e166-9d0c-4791-a2cf-cfb8557e7a4c,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-27 02:12:37,198.5,debit,4bb39ad34eedfd4a,merchant,IMPS,fuel,Ipsam nesciunt saepe.,0.0,
+5e0fabc3-72e5-46a4-9067-ceab02567ea1,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-27 21:32:53,1988.01,credit,f0254ec72f1c0012,peer,NEFT,rent,Inventore eveniet.,1988.01,
+c8a008e8-6d64-4c2a-8e50-4f553dffa3e9,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-28 16:53:09,298.99,debit,c99296989b895694,peer,NEFT,transfer,Harum voluptates a.,1689.02,
+1bed1e24-029d-4f9f-aa49-22cf898388ef,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-29 12:13:25,352.52,debit,47c35e72cbb89361,platform,IMPS,tip,Itaque reprehenderit.,1336.5,
+62d5ab2d-fcd5-4f44-9b79-6b8d8ebccd37,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-30 07:33:40,512.08,debit,7f54ac4561e7ab21,peer,UPI,subscription,Voluptates voluptate.,824.42,
+e1307858-790a-4d12-a65f-ff29b7153381,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-31 02:53:56,1926.01,debit,c453513f0a1575f3,unknown,NEFT,rent,Dolorum quas iste.,0.0,
+c7a2708e-2061-42dc-84e9-6e5795337ecc,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-03-31 22:14:12,225.08,debit,52d272ee3aa4bbaf,platform,IMPS,salary,Quas.,0.0,
+42efe219-61b4-4040-835e-441a9990e07f,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-01 17:34:28,1949.2,credit,2743b2c276c3f192,merchant,IMPS,fuel,Alias error ratione.,1949.2,ipl
+7cab2ec1-a029-4a9b-84f9-6e0074d2cbef,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-02 12:54:44,2207.81,debit,f3c0249f02218f73,employer,IMPS,grocery,Dolores cum.,0.0,ipl
+9a819646-60cd-43a5-813d-70b711dca565,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-03 08:15:00,1322.12,debit,0ea542317873c639,peer,IMPS,subscription,Distinctio magni.,0.0,ipl
+2652d4e0-8024-4bb5-a060-4e6227769ef1,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-04 03:35:16,1919.55,debit,0d6de1d83f978658,employer,cash_deposit,platform_payout,Odio fuga doloribus.,0.0,ipl
+2b958003-9dfe-408e-8534-5d76a66075f7,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-04 22:55:32,846.0,credit,5e534a88a7ab257e,merchant,IMPS,fuel,Aliquid officiis hic eos.,846.0,ipl
+ad226d5a-f2a2-4cd8-b374-1d12340fdb1c,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-05 18:15:48,2503.37,debit,8d72c3c013362915,merchant,NEFT,salary,Quasi tempora id.,0.0,ipl
+d4290cda-25b6-445b-b68e-a5bc6ddccf97,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-06 13:36:03,1835.47,debit,ddfc880d737a9149,unknown,platform_payout,salary,Tempore pariatur facilis.,0.0,ipl
+564515b8-b071-41a0-a602-cffd45169532,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-07 08:56:19,2728.25,debit,2cf45169a49f0d74,unknown,IMPS,loan,Sed voluptas.,0.0,ipl
+65a754c5-3959-43bb-9fdb-133223ce9050,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-08 04:16:35,2307.82,debit,e92517cd88f96eac,platform,IMPS,loan,Porro ipsa quasi quibusdam.,0.0,ipl
+a76d7f3e-1932-4231-b119-4b1c812f2b45,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-08 23:36:51,2846.39,debit,1a4e871110ab2b88,employer,platform_payout,subscription,Eum sapiente alias.,0.0,ipl
+deed5507-9366-4003-82c5-958ef75f860c,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-09 18:57:07,2585.54,debit,28d2e48ab4f65266,peer,UPI,subscription,Nisi perferendis pariatur.,0.0,ipl
+a60a66ed-1335-40d9-a3d9-b1a4d2a7eba5,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-10 14:17:23,2370.07,debit,0950dd9e79b56ce5,employer,IMPS,transfer,Veritatis.,0.0,ipl
+47302fd5-1f7a-467f-ad1d-adcb4aef0876,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-11 09:37:39,2816.33,debit,d1272fa5fea1c67e,unknown,NEFT,grocery,Reiciendis at.,0.0,ipl
+e653bcb5-4d91-4e40-8d7a-3031515c8d1b,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-12 04:57:55,1128.28,debit,584173fdbdd12d1d,platform,IMPS,rent,Exercitationem voluptatum.,0.0,ipl
+bff39e5f-28ce-46a8-a972-3019f7d0e2bf,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-13 00:18:11,2544.17,debit,4abb83da82fe2e90,unknown,UPI,salary,Esse enim architecto.,0.0,ipl
+74c0795e-57f4-4fda-b0da-37bb4a09bb20,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-13 19:38:27,1799.1,debit,f96bbed8448efc5b,peer,cash_deposit,loan,Facilis amet saepe perspiciatis.,0.0,ipl
+b75a8ae2-e990-4f70-bdbb-6ce328778c53,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-14 14:58:42,2579.06,credit,7e7386900e29c89e,merchant,IMPS,subscription,Ut repellat.,2579.06,ipl
+fcf773b7-6532-4650-a0f5-eaccdab7e545,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-15 10:18:58,1772.97,credit,e78f847ace82ce1d,unknown,UPI,subscription,Incidunt aperiam.,4352.03,ipl
+5e0a5b83-78fa-48cd-a21c-78fe99d69dc2,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-16 05:39:14,2665.59,debit,8145c24776684a6b,peer,cash_deposit,salary,Vel alias assumenda.,1686.44,ipl
+6e410122-9b74-4390-b5cd-9d75b9ab37ea,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-17 00:59:30,2363.25,debit,62592d4d1f9f6079,unknown,platform_payout,platform_payout,Recusandae quas voluptas.,0.0,ipl
+3802dddd-14dc-4eff-b0a9-dd5a8405ada5,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-17 20:19:46,1619.29,debit,9f707009b568bfe7,peer,platform_payout,rent,Omnis labore laborum.,0.0,ipl
+1b5a6c96-e25a-4986-89c9-9f90c8866794,0260421f-0671-4563-ae06-1e0dbde7aea3,2026-04-18 15:40:02,1666.83,debit,28cf0c903a58f61b,employer,platform_payout,subscription,Dolorem repellat ipsa.,0.0,ipl
