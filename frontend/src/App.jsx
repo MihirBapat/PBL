@@ -1,6 +1,6 @@
 import './index.css';
 import { useEffect, useMemo, useState } from 'react';
-import mockData from './data.json';
+import { mockData } from './data.js';
 import {
   Bar,
   BarChart,

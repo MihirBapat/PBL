@@ -1,0 +1,1261 @@
+export const mockData = {
+  "borrowers": [
+    {
+      "borrower_id": "raju_patil",
+      "display_name": "Raju Patil"
+    },
+    {
+      "borrower_id": "vikram_s",
+      "display_name": "Vikram S."
+    },
+    {
+      "borrower_id": "meena_devi",
+      "display_name": "Meena Devi"
+    }
+  ],
+  "reports": {
+    "raju_patil": {
+      "borrower_id": "raju_patil",
+      "display_name": "Raju Patil",
+      "profile": {
+        "occupation": "Swiggy Delivery Rider",
+        "city": "Pune, Maharashtra",
+        "tier": "Tier 2",
+        "tenure": "4 yrs 2 mo",
+        "transactions": 1847,
+        "avg_net_monthly_income": "Rs 22,400",
+        "income_band": "Rs 12k-25k",
+        "report_id": "GCI-2026-04-7731",
+        "generated_date": "15 Apr 2026",
+        "validity": "30 days"
+      },
+      "score": {
+        "gci": 762,
+        "color": "green",
+        "band": "Very Good",
+        "pd": 7.2,
+        "penalty": "1.0x",
+        "manipulation": "Clean",
+        "anomaly_score": 0.18,
+        "cohort_percentile": 72
+      },
+      "components": {
+        "stability": 81,
+        "liquidity": 74,
+        "discipline": 78,
+        "repayment": 83
+      },
+      "flags": {
+        "triggered_rules": 0,
+        "is_anomaly_forest": false,
+        "items": [
+          {
+            "code": "F1",
+            "name": "Income spiking check",
+            "ok": true,
+            "reason": "No pre-application inflation detected"
+          },
+          {
+            "code": "F2",
+            "name": "Expense suppression check",
+            "ok": true,
+            "reason": "Recurring signatures stable in assessment window"
+          },
+          {
+            "code": "F3",
+            "name": "Round-trip transaction scan",
+            "ok": true,
+            "reason": "Zero circular UPI pairs in 72-hour windows"
+          },
+          {
+            "code": "F4",
+            "name": "Synthetic regularity check",
+            "ok": true,
+            "reason": "Income pattern matches historical variance profile"
+          },
+          {
+            "code": "F5",
+            "name": "Dormant account activation",
+            "ok": true,
+            "reason": "Consistent activity across full tenure"
+          }
+        ],
+        "checks": {
+          "F1": false,
+          "F2": false,
+          "F3": false,
+          "F4": false,
+          "F5": false
+        }
+      },
+      "temporal": {
+        "raw": [
+          19000,
+          20000,
+          20000,
+          28000,
+          21000,
+          22000,
+          17000,
+          18000,
+          22000,
+          31000,
+          23000,
+          20000
+        ],
+        "seasonal": [
+          1000,
+          500,
+          1000,
+          6000,
+          500,
+          500,
+          -4000,
+          -3000,
+          1000,
+          9000,
+          2000,
+          500
+        ],
+        "residual": [
+          300,
+          -200,
+          400,
+          600,
+          -300,
+          100,
+          -200,
+          300,
+          -100,
+          500,
+          -300,
+          200
+        ],
+        "trend": [
+          18800,
+          19100,
+          19400,
+          19700,
+          20000,
+          20300,
+          20600,
+          20900,
+          21200,
+          21500,
+          21800,
+          22100
+        ],
+        "variance": {
+          "festival": 38,
+          "weekly": 22,
+          "residual": 15,
+          "explained": 85
+        },
+        "stress_tests": [
+          {
+            "scenario": "Normal",
+            "repayment_probability": 93
+          },
+          {
+            "scenario": "25% income drop",
+            "repayment_probability": 78
+          },
+          {
+            "scenario": "40% income drop",
+            "repayment_probability": 64
+          }
+        ]
+      },
+      "variance": {
+        "festival": 38,
+        "weekly": 22,
+        "residual": 15,
+        "explained": 85
+      },
+      "stress": [
+        {
+          "scenario": "Normal",
+          "repayment_probability": 93
+        },
+        {
+          "scenario": "25% income drop",
+          "repayment_probability": 78
+        },
+        {
+          "scenario": "40% income drop",
+          "repayment_probability": 64
+        }
+      ],
+      "shap": [
+        {
+          "label": "Liquidity Cover Ratio",
+          "value": 88,
+          "positive": true
+        },
+        {
+          "label": "Expense Discipline Score",
+          "value": 74,
+          "positive": true
+        },
+        {
+          "label": "Tenure length (4+ yrs)",
+          "value": 67,
+          "positive": true
+        },
+        {
+          "label": "CVD-adjusted stability",
+          "value": 61,
+          "positive": true
+        },
+        {
+          "label": "Raw income volatility",
+          "value": 33,
+          "positive": false
+        }
+      ],
+      "recommendation": {
+        "type": "approve",
+        "title": "Recommendation - Approve",
+        "rows": [
+          [
+            "Decision",
+            "Approve - GCI 762 (Very Good)"
+          ],
+          [
+            "Suggested loan amount",
+            "Rs 50,000"
+          ],
+          [
+            "Monthly EMI",
+            "Rs 1,800"
+          ],
+          [
+            "Recommended tenure",
+            "36 months"
+          ],
+          [
+            "Indicative interest rate",
+            "14.0% p.a."
+          ],
+          [
+            "Review trigger",
+            "Flag if 2 consecutive EMIs missed"
+          ]
+        ]
+      },
+      "events": [
+        {
+          "name": "Diwali (Oct)",
+          "status": "active",
+          "pct": "+41%",
+          "note": "Within cohort ceiling"
+        },
+        {
+          "name": "IPL season (Apr)",
+          "status": "active",
+          "pct": "+33%",
+          "note": "Cricket-driven demand"
+        },
+        {
+          "name": "Monsoon dip (Jul)",
+          "status": "active",
+          "pct": "-23%",
+          "note": "Weather-explained"
+        }
+      ],
+      "trend": {
+        "slope": "+Rs 280/mo",
+        "direction": "Upward"
+      },
+      "cvd_note": "85% of measured income volatility is attributable to calendar events. Residual risk of 15% is below the 30% cutoff.",
+      "liquidity": [
+        {
+          "month": "M1",
+          "balance": 5820,
+          "floor": 5700
+        },
+        {
+          "month": "M2",
+          "balance": 6260,
+          "floor": 6000
+        },
+        {
+          "month": "M3",
+          "balance": 6520,
+          "floor": 6000
+        },
+        {
+          "month": "M4",
+          "balance": 7440,
+          "floor": 8400
+        },
+        {
+          "month": "M5",
+          "balance": 6440,
+          "floor": 6300
+        },
+        {
+          "month": "M6",
+          "balance": 6880,
+          "floor": 6600
+        },
+        {
+          "month": "M7",
+          "balance": 5460,
+          "floor": 5100
+        },
+        {
+          "month": "M8",
+          "balance": 5900,
+          "floor": 5400
+        },
+        {
+          "month": "M9",
+          "balance": 6880,
+          "floor": 6600
+        },
+        {
+          "month": "M10",
+          "balance": 7980,
+          "floor": 9300
+        },
+        {
+          "month": "M11",
+          "balance": 6800,
+          "floor": 6900
+        },
+        {
+          "month": "M12",
+          "balance": 6520,
+          "floor": 6000
+        }
+      ],
+      "expenses": [
+        {
+          "month": "M1",
+          "recurring": 6460,
+          "variable": 5130
+        },
+        {
+          "month": "M2",
+          "recurring": 6800,
+          "variable": 5640
+        },
+        {
+          "month": "M3",
+          "recurring": 6800,
+          "variable": 5880
+        },
+        {
+          "month": "M4",
+          "recurring": 9520,
+          "variable": 8280
+        },
+        {
+          "month": "M5",
+          "recurring": 7140,
+          "variable": 5670
+        },
+        {
+          "month": "M6",
+          "recurring": 7480,
+          "variable": 6180
+        },
+        {
+          "month": "M7",
+          "recurring": 5780,
+          "variable": 5070
+        },
+        {
+          "month": "M8",
+          "recurring": 6120,
+          "variable": 5580
+        },
+        {
+          "month": "M9",
+          "recurring": 7480,
+          "variable": 5940
+        },
+        {
+          "month": "M10",
+          "recurring": 10540,
+          "variable": 8610
+        },
+        {
+          "month": "M11",
+          "recurring": 7820,
+          "variable": 6690
+        },
+        {
+          "month": "M12",
+          "recurring": 6800,
+          "variable": 6120
+        }
+      ],
+      "timeline": [
+        {
+          "month": "M1",
+          "income": 19000,
+          "flagged": false
+        },
+        {
+          "month": "M2",
+          "income": 20000,
+          "flagged": false
+        },
+        {
+          "month": "M3",
+          "income": 20000,
+          "flagged": false
+        },
+        {
+          "month": "M4",
+          "income": 28000,
+          "flagged": false
+        },
+        {
+          "month": "M5",
+          "income": 21000,
+          "flagged": false
+        },
+        {
+          "month": "M6",
+          "income": 22000,
+          "flagged": false
+        },
+        {
+          "month": "M7",
+          "income": 17000,
+          "flagged": false
+        },
+        {
+          "month": "M8",
+          "income": 18000,
+          "flagged": false
+        },
+        {
+          "month": "M9",
+          "income": 22000,
+          "flagged": false
+        },
+        {
+          "month": "M10",
+          "income": 31000,
+          "flagged": false
+        },
+        {
+          "month": "M11",
+          "income": 23000,
+          "flagged": false
+        },
+        {
+          "month": "M12",
+          "income": 20000,
+          "flagged": false
+        }
+      ]
+    },
+    "vikram_s": {
+      "borrower_id": "vikram_s",
+      "display_name": "Vikram S.",
+      "profile": {
+        "occupation": "Freelancer / Self-employed",
+        "city": "Hyderabad, Telangana",
+        "tier": "Tier 1",
+        "tenure": "8 months",
+        "transactions": 312,
+        "avg_net_monthly_income": "Rs 28,600",
+        "income_band": "Rs 25k-40k",
+        "report_id": "GCI-2026-04-8821",
+        "generated_date": "15 Apr 2026",
+        "validity": "30 days"
+      },
+      "score": {
+        "gci": 431,
+        "color": "red",
+        "band": "Poor",
+        "pd": 41.3,
+        "penalty": "0.50x",
+        "manipulation": "High Risk",
+        "anomaly_score": 0.87,
+        "cohort_percentile": 11
+      },
+      "components": {
+        "stability": 29,
+        "liquidity": 38,
+        "discipline": 22,
+        "repayment": 31
+      },
+      "flags": {
+        "triggered_rules": 4,
+        "is_anomaly_forest": true,
+        "items": [
+          {
+            "code": "F1",
+            "name": "Income spiking check",
+            "ok": false,
+            "reason": "Last 90 days income is 3.1x cohort 99th percentile"
+          },
+          {
+            "code": "F2",
+            "name": "Expense suppression check",
+            "ok": false,
+            "reason": "Rent, telecom, and grocery signatures absent"
+          },
+          {
+            "code": "F3",
+            "name": "Round-trip transaction scan",
+            "ok": false,
+            "reason": "4 circular pairs within 72 hours totaling Rs 60,000"
+          },
+          {
+            "code": "F4",
+            "name": "Synthetic regularity check",
+            "ok": true,
+            "reason": "No synthetic regularity pattern detected"
+          },
+          {
+            "code": "F5",
+            "name": "Dormant account activation",
+            "ok": false,
+            "reason": "Transaction frequency 11.75x above baseline"
+          }
+        ],
+        "checks": {
+          "F1": true,
+          "F2": true,
+          "F3": true,
+          "F4": false,
+          "F5": true
+        }
+      },
+      "temporal": {
+        "raw": [
+          14000,
+          13000,
+          15000,
+          14000,
+          13000,
+          42000,
+          44000,
+          38000
+        ],
+        "seasonal": [
+          500,
+          300,
+          400,
+          300,
+          400,
+          800,
+          900,
+          700
+        ],
+        "residual": [
+          200,
+          400,
+          300,
+          500,
+          300,
+          28000,
+          29000,
+          24000
+        ],
+        "trend": [
+          13800,
+          14000,
+          14200,
+          14400,
+          14600,
+          14800,
+          15000,
+          15200
+        ],
+        "variance": {
+          "festival": 8,
+          "weekly": 4,
+          "residual": 88,
+          "explained": 12
+        },
+        "stress_tests": [
+          {
+            "scenario": "Normal",
+            "repayment_probability": 41
+          },
+          {
+            "scenario": "25% income drop",
+            "repayment_probability": 18
+          },
+          {
+            "scenario": "40% income drop",
+            "repayment_probability": 8
+          }
+        ]
+      },
+      "variance": {
+        "festival": 8,
+        "weekly": 4,
+        "residual": 88,
+        "explained": 12
+      },
+      "stress": [
+        {
+          "scenario": "Normal",
+          "repayment_probability": 41
+        },
+        {
+          "scenario": "25% income drop",
+          "repayment_probability": 18
+        },
+        {
+          "scenario": "40% income drop",
+          "repayment_probability": 8
+        }
+      ],
+      "shap": [
+        {
+          "label": "Round-trip transaction count",
+          "value": 91,
+          "positive": false
+        },
+        {
+          "label": "Dormancy activation score",
+          "value": 88,
+          "positive": false
+        },
+        {
+          "label": "Income spike ratio",
+          "value": 85,
+          "positive": false
+        },
+        {
+          "label": "Expense suppression delta",
+          "value": 79,
+          "positive": false
+        },
+        {
+          "label": "Liquidity cover ratio",
+          "value": 28,
+          "positive": true
+        }
+      ],
+      "recommendation": {
+        "type": "reject",
+        "title": "Recommendation - Reject",
+        "rows": [
+          [
+            "Decision",
+            "Reject - High Risk manipulation label"
+          ],
+          [
+            "Primary reason",
+            "4 of 5 hard fraud rules triggered"
+          ],
+          [
+            "Penalty applied",
+            "0.50x multiplier on raw score"
+          ],
+          [
+            "Compliance action",
+            "Refer to compliance review board"
+          ],
+          [
+            "Re-application",
+            "Eligible after 6-month clean data window"
+          ]
+        ]
+      },
+      "events": [
+        {
+          "name": "No festival correlation",
+          "status": "risk",
+          "pct": "N/A",
+          "note": "Spikes have no calendar cause"
+        },
+        {
+          "name": "Income spike (Jun-Aug)",
+          "status": "risk",
+          "pct": "+210%",
+          "note": "3.1x cohort 99th percentile"
+        },
+        {
+          "name": "Dormant activation",
+          "status": "risk",
+          "pct": "11.75x",
+          "note": "Frequency vs baseline"
+        }
+      ],
+      "trend": {
+        "slope": "Insufficient data",
+        "direction": "Unknown"
+      },
+      "cvd_note": "Only 12% of volatility is calendar-explainable. Residual risk of 88% exceeds the 30% risk threshold.",
+      "liquidity": [
+        {
+          "month": "M1",
+          "balance": 4920,
+          "floor": 4200
+        },
+        {
+          "month": "M2",
+          "balance": 5000,
+          "floor": 3900
+        },
+        {
+          "month": "M3",
+          "balance": 5620,
+          "floor": 4500
+        },
+        {
+          "month": "M4",
+          "balance": 4920,
+          "floor": 4200
+        },
+        {
+          "month": "M5",
+          "balance": 5000,
+          "floor": 3900
+        },
+        {
+          "month": "M6",
+          "balance": 10480,
+          "floor": 12600
+        },
+        {
+          "month": "M7",
+          "balance": 10320,
+          "floor": 13200
+        },
+        {
+          "month": "M8",
+          "balance": 9500,
+          "floor": 11400
+        }
+      ],
+      "expenses": [
+        {
+          "month": "M1",
+          "recurring": 4760,
+          "variable": 3780
+        },
+        {
+          "month": "M2",
+          "recurring": 4420,
+          "variable": 3750
+        },
+        {
+          "month": "M3",
+          "recurring": 5100,
+          "variable": 4530
+        },
+        {
+          "month": "M4",
+          "recurring": 4760,
+          "variable": 4500
+        },
+        {
+          "month": "M5",
+          "recurring": 4420,
+          "variable": 3510
+        },
+        {
+          "month": "M6",
+          "recurring": 0,
+          "variable": 11580
+        },
+        {
+          "month": "M7",
+          "recurring": 0,
+          "variable": 12360
+        },
+        {
+          "month": "M8",
+          "recurring": 0,
+          "variable": 10980
+        }
+      ],
+      "timeline": [
+        {
+          "month": "M1",
+          "income": 14000,
+          "flagged": false
+        },
+        {
+          "month": "M2",
+          "income": 13000,
+          "flagged": false
+        },
+        {
+          "month": "M3",
+          "income": 15000,
+          "flagged": false
+        },
+        {
+          "month": "M4",
+          "income": 14000,
+          "flagged": false
+        },
+        {
+          "month": "M5",
+          "income": 13000,
+          "flagged": true
+        },
+        {
+          "month": "M6",
+          "income": 42000,
+          "flagged": true
+        },
+        {
+          "month": "M7",
+          "income": 44000,
+          "flagged": true
+        },
+        {
+          "month": "M8",
+          "income": 38000,
+          "flagged": true
+        }
+      ]
+    },
+    "meena_devi": {
+      "borrower_id": "meena_devi",
+      "display_name": "Meena Devi",
+      "profile": {
+        "occupation": "Tailor / Garment Worker",
+        "city": "Jaipur, Rajasthan",
+        "tier": "Tier 3",
+        "tenure": "2 yrs 9 mo",
+        "transactions": 980,
+        "avg_net_monthly_income": "Rs 14,200",
+        "income_band": "Rs 12k-25k",
+        "report_id": "GCI-2026-04-6612",
+        "generated_date": "15 Apr 2026",
+        "validity": "30 days"
+      },
+      "score": {
+        "gci": 638,
+        "color": "amber",
+        "band": "Good",
+        "pd": 18.4,
+        "penalty": "0.75x",
+        "manipulation": "Suspicious",
+        "anomaly_score": 0.71,
+        "cohort_percentile": 48
+      },
+      "components": {
+        "stability": 62,
+        "liquidity": 54,
+        "discipline": 67,
+        "repayment": 59
+      },
+      "flags": {
+        "triggered_rules": 1,
+        "is_anomaly_forest": true,
+        "items": [
+          {
+            "code": "F1",
+            "name": "Income spiking check",
+            "ok": false,
+            "reason": "Navratri window income 1.8x cohort ceiling"
+          },
+          {
+            "code": "F2",
+            "name": "Expense suppression check",
+            "ok": true,
+            "reason": "Recurring expense signatures present"
+          },
+          {
+            "code": "F3",
+            "name": "Round-trip transaction scan",
+            "ok": true,
+            "reason": "No circular pairs detected"
+          },
+          {
+            "code": "F4",
+            "name": "Synthetic regularity check",
+            "ok": true,
+            "reason": "Income pattern matches garment seasonality"
+          },
+          {
+            "code": "F5",
+            "name": "Dormant account activation",
+            "ok": true,
+            "reason": "Consistent activity throughout tenure"
+          }
+        ],
+        "checks": {
+          "F1": true,
+          "F2": false,
+          "F3": false,
+          "F4": false,
+          "F5": false
+        }
+      },
+      "temporal": {
+        "raw": [
+          12000,
+          11000,
+          13000,
+          12000,
+          14000,
+          13000,
+          11000,
+          12000,
+          18000,
+          16000,
+          15000,
+          13000
+        ],
+        "seasonal": [
+          0,
+          0,
+          500,
+          500,
+          1000,
+          500,
+          -500,
+          0,
+          5000,
+          3000,
+          2000,
+          500
+        ],
+        "residual": [
+          400,
+          -300,
+          500,
+          -200,
+          600,
+          300,
+          -400,
+          500,
+          1800,
+          700,
+          -300,
+          400
+        ],
+        "trend": [
+          12600,
+          12700,
+          12800,
+          12900,
+          13000,
+          13100,
+          13200,
+          13300,
+          13400,
+          13500,
+          13600,
+          13700
+        ],
+        "variance": {
+          "festival": 42,
+          "weekly": 19,
+          "residual": 39,
+          "explained": 61
+        },
+        "stress_tests": [
+          {
+            "scenario": "Normal",
+            "repayment_probability": 72
+          },
+          {
+            "scenario": "25% income drop",
+            "repayment_probability": 54
+          },
+          {
+            "scenario": "40% income drop",
+            "repayment_probability": 38
+          }
+        ]
+      },
+      "variance": {
+        "festival": 42,
+        "weekly": 19,
+        "residual": 39,
+        "explained": 61
+      },
+      "stress": [
+        {
+          "scenario": "Normal",
+          "repayment_probability": 72
+        },
+        {
+          "scenario": "25% income drop",
+          "repayment_probability": 54
+        },
+        {
+          "scenario": "40% income drop",
+          "repayment_probability": 38
+        }
+      ],
+      "shap": [
+        {
+          "label": "CVD-adjusted stability",
+          "value": 62,
+          "positive": true
+        },
+        {
+          "label": "Tenure length (2.7 yrs)",
+          "value": 55,
+          "positive": true
+        },
+        {
+          "label": "Expense discipline score",
+          "value": 42,
+          "positive": true
+        },
+        {
+          "label": "Navratri income excess",
+          "value": 58,
+          "positive": false
+        },
+        {
+          "label": "Low liquidity cover ratio",
+          "value": 44,
+          "positive": false
+        }
+      ],
+      "recommendation": {
+        "type": "conditional",
+        "title": "Conditional Approval - Reduced Amount",
+        "rows": [
+          [
+            "Decision",
+            "Conditional approve - Suspicious flag"
+          ],
+          [
+            "Suggested loan amount",
+            "Rs 25,000"
+          ],
+          [
+            "Monthly EMI",
+            "Rs 1,100"
+          ],
+          [
+            "Recommended tenure",
+            "30 months"
+          ],
+          [
+            "Indicative interest rate",
+            "16.0% p.a."
+          ],
+          [
+            "Condition",
+            "2-month monitoring window before disbursal"
+          ]
+        ]
+      },
+      "events": [
+        {
+          "name": "Navratri (Sep)",
+          "status": "risk",
+          "pct": "+50%",
+          "note": "1.8x cohort ceiling"
+        },
+        {
+          "name": "Wedding season (Oct-Nov)",
+          "status": "active",
+          "pct": "+23%",
+          "note": "Garment industry seasonal"
+        },
+        {
+          "name": "Off-season (Jul-Aug)",
+          "status": "inactive",
+          "pct": "-18%",
+          "note": "Normal garment off-season"
+        }
+      ],
+      "trend": {
+        "slope": "+Rs 120/mo",
+        "direction": "Slight upward"
+      },
+      "cvd_note": "61% of volatility is calendar-explainable, but the Navratri spike exceeds the cohort ceiling and triggers Suspicious review.",
+      "liquidity": [
+        {
+          "month": "M1",
+          "balance": 4560,
+          "floor": 3600
+        },
+        {
+          "month": "M2",
+          "balance": 4640,
+          "floor": 3300
+        },
+        {
+          "month": "M3",
+          "balance": 5260,
+          "floor": 3900
+        },
+        {
+          "month": "M4",
+          "balance": 4560,
+          "floor": 3600
+        },
+        {
+          "month": "M5",
+          "balance": 5180,
+          "floor": 4200
+        },
+        {
+          "month": "M6",
+          "balance": 5260,
+          "floor": 3900
+        },
+        {
+          "month": "M7",
+          "balance": 4380,
+          "floor": 3300
+        },
+        {
+          "month": "M8",
+          "balance": 4820,
+          "floor": 3600
+        },
+        {
+          "month": "M9",
+          "balance": 6160,
+          "floor": 5400
+        },
+        {
+          "month": "M10",
+          "balance": 5280,
+          "floor": 4800
+        },
+        {
+          "month": "M11",
+          "balance": 5360,
+          "floor": 4500
+        },
+        {
+          "month": "M12",
+          "balance": 5260,
+          "floor": 3900
+        }
+      ],
+      "expenses": [
+        {
+          "month": "M1",
+          "recurring": 4080,
+          "variable": 3240
+        },
+        {
+          "month": "M2",
+          "recurring": 3740,
+          "variable": 3210
+        },
+        {
+          "month": "M3",
+          "recurring": 4420,
+          "variable": 3990
+        },
+        {
+          "month": "M4",
+          "recurring": 4080,
+          "variable": 3960
+        },
+        {
+          "month": "M5",
+          "recurring": 4760,
+          "variable": 3780
+        },
+        {
+          "month": "M6",
+          "recurring": 4420,
+          "variable": 3750
+        },
+        {
+          "month": "M7",
+          "recurring": 3740,
+          "variable": 3450
+        },
+        {
+          "month": "M8",
+          "recurring": 4080,
+          "variable": 3960
+        },
+        {
+          "month": "M9",
+          "recurring": 6120,
+          "variable": 4860
+        },
+        {
+          "month": "M10",
+          "recurring": 5440,
+          "variable": 4560
+        },
+        {
+          "month": "M11",
+          "recurring": 5100,
+          "variable": 4530
+        },
+        {
+          "month": "M12",
+          "recurring": 4420,
+          "variable": 4230
+        }
+      ],
+      "timeline": [
+        {
+          "month": "M1",
+          "income": 12000,
+          "flagged": false
+        },
+        {
+          "month": "M2",
+          "income": 11000,
+          "flagged": false
+        },
+        {
+          "month": "M3",
+          "income": 13000,
+          "flagged": false
+        },
+        {
+          "month": "M4",
+          "income": 12000,
+          "flagged": false
+        },
+        {
+          "month": "M5",
+          "income": 14000,
+          "flagged": false
+        },
+        {
+          "month": "M6",
+          "income": 13000,
+          "flagged": false
+        },
+        {
+          "month": "M7",
+          "income": 11000,
+          "flagged": false
+        },
+        {
+          "month": "M8",
+          "income": 12000,
+          "flagged": true
+        },
+        {
+          "month": "M9",
+          "income": 18000,
+          "flagged": true
+        },
+        {
+          "month": "M10",
+          "income": 16000,
+          "flagged": true
+        },
+        {
+          "month": "M11",
+          "income": 15000,
+          "flagged": true
+        },
+        {
+          "month": "M12",
+          "income": 13000,
+          "flagged": true
+        }
+      ]
+    }
+  }
+};

@@ -577,6 +577,17 @@ tr:last-child td {
   max-width: 100%;
 }
 
+.recharts-responsive-container {
+  min-height: 200px;
+}
+
+.card .recharts-responsive-container,
+.grid2 > div .recharts-responsive-container,
+.grid3 > article .recharts-responsive-container {
+  width: 100% !important;
+  min-height: 200px;
+}
+
 @media (max-width: 1050px) {
   .grid4,
   .meta-grid {
