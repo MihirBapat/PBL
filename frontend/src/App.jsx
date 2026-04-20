@@ -182,7 +182,7 @@ export default function App() {
 
           <div className="banner-row">
             <div className={`banner ${riskClass(score.manipulation)}`}>
-              {score.manipulation.toUpperCase()} - Isolation Forest anomaly score {Number(score.anomaly_score).toFixed(2)}. Penalty multiplier {score.penalty}.
+              {(score.manipulation || '').toUpperCase()} - Isolation Forest anomaly score {Number(score.anomaly_score || 0).toFixed(2)}. Penalty multiplier {score.penalty}.
             </div>
           </div>
 

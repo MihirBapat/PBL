@@ -273,6 +273,7 @@ select {
   border-radius: 7px;
   font-size: 12px;
   font-weight: 600;
+  border: 1px solid transparent;
 }
 
 .banner.green,
@@ -474,6 +475,7 @@ tr:last-child td {
 .cohort-fill {
   border-radius: 999px;
   background: #185fa5;
+  height: 100%;
 }
 
 .cohort-marker {
