@@ -1,6 +1,6 @@
 import './index.css';
 import { useEffect, useMemo, useState } from 'react';
-import axios from 'axios';
+import mockData from './data.json';
 import {
   Bar,
   BarChart,
@@ -21,7 +21,6 @@ import {
   YAxis,
 } from 'recharts';
 
-const API_BASE = 'http://127.0.0.1:8000';
 const ORDER = ['raju_patil', 'vikram_s', 'meena_devi'];
 const COLORS = ['#1d9e75', '#185fa5', '#e24b4a'];
 
@@ -75,35 +74,27 @@ export default function App() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    async function loadBorrowers() {
-      try {
-        const response = await axios.get(`${API_BASE}/borrowers`);
-        const rows = sortBorrowers(response.data.borrowers || []);
-        setBorrowers(rows);
-        setSelected(rows[0]?.borrower_id || '');
-      } catch {
-        setError('Backend is not reachable at http://127.0.0.1:8000.');
-        setLoading(false);
-      }
+    // Load borrowers from local data
+    const rows = sortBorrowers(mockData.borrowers || []);
+    setBorrowers(rows);
+    if (rows.length > 0) {
+      setSelected(rows[0].borrower_id);
     }
-    loadBorrowers();
   }, []);
 
   useEffect(() => {
     if (!selected) return;
-    async function loadReport() {
-      setLoading(true);
-      setError('');
-      try {
-        const response = await axios.get(`${API_BASE}/borrower-report/${selected}`);
-        setReport(response.data);
-      } catch {
-        setError('Could not load borrower report from backend.');
-      } finally {
-        setLoading(false);
-      }
+    setLoading(true);
+    setError('');
+    // Load report from local data
+    const reportData = mockData.reports[selected];
+
+    if (reportData) {
+      setReport(reportData);
+    } else {
+      setError('Report not found for this borrower.');
     }
-    loadReport();
+    setLoading(false);
   }, [selected]);
 
   const temporalRows = useMemo(() => buildTemporalRows(report), [report]);
