@@ -1,3 +1,4 @@
+
 # GCI — Gig Cashflow Index
 
 A full-stack financial analysis dashboard for evaluating the creditworthiness of gig economy workers using ML-powered income analysis.
