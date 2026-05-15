@@ -11,7 +11,7 @@ import { StressRepaymentTab }   from './components/tabs/StressRepaymentTab';
 import { CohortComparisonTab }  from './components/tabs/CohortComparisonTab';
 import { CreditGuidanceTab }    from './components/tabs/CreditGuidanceTab';
 
-const API_BASE = 'http://127.0.0.1:8000';
+const API_BASE = 'https://pbl-0f19.onrender.com';
 const ORDER    = ['raju_patil', 'vikram_s', 'meena_devi'];
 
 function sortBorrowers(rows) {
@@ -39,7 +39,7 @@ export default function App() {
         if (rows.length) setSelected(rows[0].borrower_id);
       })
       .catch(() => {
-        setError('Backend not reachable at http://127.0.0.1:8000');
+        setError('Backend not reachable at https://pbl-0f19.onrender.com');
         setLoading(false);
       });
   }, []);
